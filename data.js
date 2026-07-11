@@ -1,0 +1,8180 @@
+// Dataset generato automaticamente da tools/generate_data.py
+// Valori approssimativi e a scopo puramente ludico.
+window.CHARACTERS = [
+{
+"name": "Abbas II di Persia",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 340613,
+"women": 10,
+"territory": 2304798
+},
+{
+"name": "Abd Allah I di Giordania",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 411516,
+"women": 50,
+"territory": 5195544
+},
+{
+"name": "Abd al-Malik",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 29207,
+"women": 3,
+"territory": 688219
+},
+{
+"name": "Abdul Hamid I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 216243,
+"women": 337,
+"territory": 3723075
+},
+{
+"name": "Abdul Hamid II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 1485169,
+"women": 53,
+"territory": 4181223
+},
+{
+"name": "Abdulaziz",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 319556,
+"women": 98,
+"territory": 2373257
+},
+{
+"name": "Abdulmecid I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 538536,
+"women": 97,
+"territory": 3659742
+},
+{
+"name": "Abel Tasman",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 3339,
+"women": 3,
+"territory": 157930
+},
+{
+"name": "Adolf Hitler",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 17000000,
+"women": 3,
+"territory": 3000000
+},
+{
+"name": "Adriano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 100000,
+"women": 2,
+"territory": 5000000
+},
+{
+"name": "Afonso de Albuquerque",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 17584,
+"women": 5,
+"territory": 689842
+},
+{
+"name": "Agha Mohammad Khan",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 298494,
+"women": 7,
+"territory": 341101
+},
+{
+"name": "Agricola",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 395759,
+"women": 3,
+"territory": 1
+},
+{
+"name": "Ahmed I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 359823,
+"women": 118,
+"territory": 3958308
+},
+{
+"name": "Ahmed II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 209045,
+"women": 277,
+"territory": 4210339
+},
+{
+"name": "Ahmed III",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 1125101,
+"women": 347,
+"territory": 1804763
+},
+{
+"name": "Akbar",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 500000,
+"women": 5000,
+"territory": 4000000
+},
+{
+"name": "Al-Adil I l'Ayyubide",
+"era": "Dinastia ayyubide",
+"emoji": "🌙",
+"kills": 1044862,
+"women": 80,
+"territory": 3501413
+},
+{
+"name": "Al-Adil II l'Ayyubide",
+"era": "Dinastia ayyubide",
+"emoji": "🌙",
+"kills": 889877,
+"women": 150,
+"territory": 2410397
+},
+{
+"name": "Al-Ma'mun",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 33091,
+"women": 17,
+"territory": 223273
+},
+{
+"name": "Al-Mansur",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 15063,
+"women": 7,
+"territory": 219030
+},
+{
+"name": "Al-Mu'tasim",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 64857,
+"women": 4,
+"territory": 512500
+},
+{
+"name": "Alauddin I Khalji",
+"era": "Sultanato di Delhi",
+"emoji": "🌙",
+"kills": 718883,
+"women": 53,
+"territory": 2037919
+},
+{
+"name": "Albert Kesselring",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 203256,
+"women": 7,
+"territory": 8
+},
+{
+"name": "Alberto I del Belgio",
+"era": "Regno del Belgio",
+"emoji": "🇧🇪",
+"kills": 91325,
+"women": 19,
+"territory": 82098
+},
+{
+"name": "Alberto II d'Asburgo",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 16181,
+"women": 23,
+"territory": 111269
+},
+{
+"name": "Alberto II del Belgio",
+"era": "Regno del Belgio",
+"emoji": "🇧🇪",
+"kills": 96660,
+"women": 13,
+"territory": 1123615
+},
+{
+"name": "Alcibiade",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 343553,
+"women": 5,
+"territory": 143
+},
+{
+"name": "Aleksandr Nevskij",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 50000,
+"women": 1,
+"territory": 0
+},
+{
+"name": "Aleksei Brusilov",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 399068,
+"women": 4,
+"territory": 13
+},
+{
+"name": "Alessandro Farnese",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 287098,
+"women": 12,
+"territory": 34257
+},
+{
+"name": "Alessandro I di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 230837,
+"women": 16,
+"territory": 794376
+},
+{
+"name": "Alessandro I di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 144828,
+"women": 3,
+"territory": 1434506
+},
+{
+"name": "Alessandro II di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 227275,
+"women": 18,
+"territory": 941574
+},
+{
+"name": "Alessandro II di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 55457,
+"women": 26,
+"territory": 702671
+},
+{
+"name": "Alessandro III di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 71533,
+"women": 2,
+"territory": 123893
+},
+{
+"name": "Alessandro III di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 71141,
+"women": 6,
+"territory": 90777
+},
+{
+"name": "Alessandro Magno",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 1500000,
+"women": 360,
+"territory": 5200000
+},
+{
+"name": "Alessandro Severo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 123556,
+"women": 59,
+"territory": 5382761
+},
+{
+"name": "Alessio I Comneno",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 83368,
+"women": 46,
+"territory": 652914
+},
+{
+"name": "Alessio I di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 17568,
+"women": 3,
+"territory": 1159624
+},
+{
+"name": "Alessio III Angelo",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 342730,
+"women": 325,
+"territory": 4146026
+},
+{
+"name": "Alexander Lukashenko",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 1360316,
+"women": 1,
+"territory": 2458868
+},
+{
+"name": "Alfonso Henriques",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 36507,
+"women": 16,
+"territory": 1171501
+},
+{
+"name": "Alfonso I d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 27388,
+"women": 16,
+"territory": 1559951
+},
+{
+"name": "Alfonso I del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 177665,
+"women": 5,
+"territory": 117430
+},
+{
+"name": "Alfonso II d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 131115,
+"women": 10,
+"territory": 151683
+},
+{
+"name": "Alfonso II del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 115229,
+"women": 4,
+"territory": 90222
+},
+{
+"name": "Alfonso III d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 372755,
+"women": 27,
+"territory": 1492442
+},
+{
+"name": "Alfonso III del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 66473,
+"women": 22,
+"territory": 958374
+},
+{
+"name": "Alfonso IV d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 213289,
+"women": 15,
+"territory": 632258
+},
+{
+"name": "Alfonso IV del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 41635,
+"women": 8,
+"territory": 287714
+},
+{
+"name": "Alfonso IX di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 21053,
+"women": 3,
+"territory": 339204
+},
+{
+"name": "Alfonso V d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 110111,
+"women": 15,
+"territory": 576514
+},
+{
+"name": "Alfonso V del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 53853,
+"women": 6,
+"territory": 1065747
+},
+{
+"name": "Alfonso VI del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 46949,
+"women": 19,
+"territory": 1007636
+},
+{
+"name": "Alfonso VI di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 121749,
+"women": 10,
+"territory": 160697
+},
+{
+"name": "Alfonso VII di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 85090,
+"women": 3,
+"territory": 196050
+},
+{
+"name": "Alfonso VIII di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 118011,
+"women": 7,
+"territory": 89827
+},
+{
+"name": "Alfonso X di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 16219,
+"women": 4,
+"territory": 1036094
+},
+{
+"name": "Alfonso XI di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 88745,
+"women": 18,
+"territory": 1165088
+},
+{
+"name": "Alfonso XII",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 282020,
+"women": 27,
+"territory": 216176
+},
+{
+"name": "Alfonso XIII",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 37928,
+"women": 20,
+"territory": 178839
+},
+{
+"name": "Alfonso il Magnanimo",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 26716,
+"women": 13,
+"territory": 585131
+},
+{
+"name": "Alfred Jodl",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 47181,
+"women": 6,
+"territory": 4
+},
+{
+"name": "Amenhotep I d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 48198,
+"women": 3,
+"territory": 1935020
+},
+{
+"name": "Amenhotep II d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 200034,
+"women": 8,
+"territory": 101032
+},
+{
+"name": "Amenhotep III d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 79084,
+"women": 27,
+"territory": 1733380
+},
+{
+"name": "Amenhotep IV d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 140204,
+"women": 4,
+"territory": 107250
+},
+{
+"name": "Amerigo Vespucci",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 13568,
+"women": 7,
+"territory": 1468777
+},
+{
+"name": "Anastasio Somoza",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 528799,
+"women": 1,
+"territory": 1397380
+},
+{
+"name": "Andre Massena",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 108525,
+"women": 3,
+"territory": 28
+},
+{
+"name": "Andrea Doria",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 37669,
+"women": 29,
+"territory": 1232728
+},
+{
+"name": "Andronico I Comneno",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 341509,
+"women": 21,
+"territory": 1702364
+},
+{
+"name": "Andronico II",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 634989,
+"women": 96,
+"territory": 3805536
+},
+{
+"name": "Anna di Gran Bretagna",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 76102,
+"women": 4,
+"territory": 1250530
+},
+{
+"name": "Annibale",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 300000,
+"women": 5,
+"territory": 200000
+},
+{
+"name": "Antigono I di Macedonia",
+"era": "Regni greci ellenistici",
+"emoji": "🏛️",
+"kills": 156150,
+"women": 19,
+"territory": 566051
+},
+{
+"name": "Antigono II di Macedonia",
+"era": "Regni greci ellenistici",
+"emoji": "🏛️",
+"kills": 24090,
+"women": 22,
+"territory": 1271506
+},
+{
+"name": "Antigono III di Macedonia",
+"era": "Regni greci ellenistici",
+"emoji": "🏛️",
+"kills": 229622,
+"women": 3,
+"territory": 659887
+},
+{
+"name": "Antioco III",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 300000,
+"women": 5,
+"territory": 3000000
+},
+{
+"name": "Antioco IV il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 86643,
+"women": 30,
+"territory": 4520271
+},
+{
+"name": "Antioco IX il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 114128,
+"women": 22,
+"territory": 1823280
+},
+{
+"name": "Antioco V il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 755161,
+"women": 199,
+"territory": 4370129
+},
+{
+"name": "Antioco VI il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 892349,
+"women": 356,
+"territory": 1661583
+},
+{
+"name": "Antioco VII il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 1365222,
+"women": 159,
+"territory": 3291559
+},
+{
+"name": "Antioco VIII il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 247871,
+"women": 150,
+"territory": 1745196
+},
+{
+"name": "Antioco X il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 130699,
+"women": 69,
+"territory": 4676002
+},
+{
+"name": "Antioco XI il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 1386759,
+"women": 91,
+"territory": 2491637
+},
+{
+"name": "Antioco XII il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 701775,
+"women": 50,
+"territory": 1189578
+},
+{
+"name": "Antioco XIII il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 328330,
+"women": 121,
+"territory": 2458722
+},
+{
+"name": "Antonino Pio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 1186121,
+"women": 64,
+"territory": 1856988
+},
+{
+"name": "Antonio Jose de Sucre",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 182413,
+"women": 2,
+"territory": 1265
+},
+{
+"name": "Arcadio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 134249,
+"women": 24,
+"territory": 5554554
+},
+{
+"name": "Archibald Wavell",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 30795,
+"women": 1,
+"territory": 1442
+},
+{
+"name": "Ardashir I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 200000,
+"women": 50,
+"territory": 3500000
+},
+{
+"name": "Ariel Sharon",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 296996,
+"women": 6,
+"territory": 68929
+},
+{
+"name": "Arminio",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 70557,
+"women": 2,
+"territory": 39693
+},
+{
+"name": "Artaserse I di Persia",
+"era": "Dinastia Achemenide",
+"emoji": "🏺",
+"kills": 576098,
+"women": 88,
+"territory": 3010133
+},
+{
+"name": "Artaserse II di Persia",
+"era": "Dinastia Achemenide",
+"emoji": "🏺",
+"kills": 122345,
+"women": 34,
+"territory": 841296
+},
+{
+"name": "Artaserse III di Persia",
+"era": "Dinastia Achemenide",
+"emoji": "🏺",
+"kills": 861433,
+"women": 177,
+"territory": 2274542
+},
+{
+"name": "Ashikaga Takauji",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 1799921,
+"women": 5,
+"territory": 12192
+},
+{
+"name": "Ashoka",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 500000,
+"women": 500,
+"territory": 5000000
+},
+{
+"name": "Ashot I d'Armenia",
+"era": "Regno d'Armenia",
+"emoji": "🏔️",
+"kills": 34532,
+"women": 10,
+"territory": 2370885
+},
+{
+"name": "Ashot II d'Armenia",
+"era": "Regno d'Armenia",
+"emoji": "🏔️",
+"kills": 19077,
+"women": 3,
+"territory": 264423
+},
+{
+"name": "Ashot III d'Armenia",
+"era": "Regno d'Armenia",
+"emoji": "🏔️",
+"kills": 60967,
+"women": 3,
+"territory": 1802906
+},
+{
+"name": "Askia I Daoud",
+"era": "Impero songhai",
+"emoji": "🦁",
+"kills": 512853,
+"women": 178,
+"territory": 991111
+},
+{
+"name": "Askia Muhammad I",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 164675,
+"women": 29,
+"territory": 118863
+},
+{
+"name": "Atahualpa I inca",
+"era": "Impero inca",
+"emoji": "🏔️",
+"kills": 341901,
+"women": 19,
+"territory": 599605
+},
+{
+"name": "Ataturk",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 81829,
+"women": 10,
+"territory": 10
+},
+{
+"name": "Attalo I di Pergamo",
+"era": "Regno di Pergamo",
+"emoji": "🏛️",
+"kills": 35941,
+"women": 13,
+"territory": 90345
+},
+{
+"name": "Attalo II di Pergamo",
+"era": "Regno di Pergamo",
+"emoji": "🏛️",
+"kills": 253441,
+"women": 4,
+"territory": 187814
+},
+{
+"name": "Attalo III di Pergamo",
+"era": "Regno di Pergamo",
+"emoji": "🏛️",
+"kills": 65869,
+"women": 23,
+"territory": 543171
+},
+{
+"name": "Attila",
+"era": "Antichità / Medioevo",
+"emoji": "🐎",
+"kills": 1000000,
+"women": 30,
+"territory": 4000000
+},
+{
+"name": "Augusto",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 500000,
+"women": 3,
+"territory": 5000000
+},
+{
+"name": "Augusto Pinochet",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 1911852,
+"women": 2,
+"territory": 1356021
+},
+{
+"name": "Aurangzeb",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 4600000,
+"women": 4000,
+"territory": 4000000
+},
+{
+"name": "Aureliano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 132722,
+"women": 86,
+"territory": 1005067
+},
+{
+"name": "Axayacatl I azteco",
+"era": "Impero azteco",
+"emoji": "🌵",
+"kills": 302491,
+"women": 5,
+"territory": 763737
+},
+{
+"name": "Ayatollah Ali Khamenei",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 6354702,
+"women": 2,
+"territory": 633008
+},
+{
+"name": "Babur",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 300000,
+"women": 10,
+"territory": 1000000
+},
+{
+"name": "Baibars",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 30460,
+"women": 30,
+"territory": 1005731
+},
+{
+"name": "Baibars I il Mamelucco",
+"era": "Sultanato mamelucco",
+"emoji": "🌙",
+"kills": 777217,
+"women": 141,
+"territory": 1261207
+},
+{
+"name": "Bajirao I",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 167582,
+"women": 35,
+"territory": 3841400
+},
+{
+"name": "Balbino",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 390938,
+"women": 221,
+"territory": 2945473
+},
+{
+"name": "Baldovino I di Gerusalemme",
+"era": "Regno di Gerusalemme",
+"emoji": "✝️",
+"kills": 15821,
+"women": 6,
+"territory": 248257
+},
+{
+"name": "Baldovino II di Gerusalemme",
+"era": "Regno di Gerusalemme",
+"emoji": "✝️",
+"kills": 27820,
+"women": 2,
+"territory": 1050412
+},
+{
+"name": "Baldovino III di Gerusalemme",
+"era": "Regno di Gerusalemme",
+"emoji": "✝️",
+"kills": 17472,
+"women": 16,
+"territory": 1807246
+},
+{
+"name": "Baldovino IV di Gerusalemme",
+"era": "Regno di Gerusalemme",
+"emoji": "✝️",
+"kills": 18361,
+"women": 4,
+"territory": 138480
+},
+{
+"name": "Baldovino V di Gerusalemme",
+"era": "Regno di Gerusalemme",
+"emoji": "✝️",
+"kills": 273932,
+"women": 6,
+"territory": 1786796
+},
+{
+"name": "Bao Dai",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 121942,
+"women": 246,
+"territory": 3321007
+},
+{
+"name": "Barbanera",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 89037,
+"women": 24,
+"territory": 131608
+},
+{
+"name": "Barbarossa",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 168317,
+"women": 20,
+"territory": 10632
+},
+{
+"name": "Barclay de Tolly",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 114140,
+"women": 10,
+"territory": 1870
+},
+{
+"name": "Bartholomew Roberts",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 570023,
+"women": 6,
+"territory": 22364
+},
+{
+"name": "Bartolomeo Colleoni",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 409866,
+"women": 20,
+"territory": 83994
+},
+{
+"name": "Bartolomeu Dias",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 19805,
+"women": 3,
+"territory": 2331825
+},
+{
+"name": "Bashar al-Assad",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 817277,
+"women": 7,
+"territory": 994115
+},
+{
+"name": "Basilio I",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 186493,
+"women": 64,
+"territory": 2744137
+},
+{
+"name": "Basilio II",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 500000,
+"women": 1,
+"territory": 1300000
+},
+{
+"name": "Batu Khan",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 2000000,
+"women": 200,
+"territory": 6000000
+},
+{
+"name": "Bayezid I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 128269,
+"women": 148,
+"territory": 1672322
+},
+{
+"name": "Bayezid II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 1352222,
+"women": 134,
+"territory": 1028134
+},
+{
+"name": "Behanzin",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 185862,
+"women": 3,
+"territory": 179845
+},
+{
+"name": "Bela I d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 229702,
+"women": 19,
+"territory": 2422190
+},
+{
+"name": "Bela II d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 168525,
+"women": 3,
+"territory": 464487
+},
+{
+"name": "Bela III d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 349541,
+"women": 6,
+"territory": 85803
+},
+{
+"name": "Bela IV d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 29759,
+"women": 9,
+"territory": 167231
+},
+{
+"name": "Belisario",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 91504,
+"women": 3,
+"territory": 79
+},
+{
+"name": "Benito Mussolini",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 1000000,
+"women": 30,
+"territory": 3500000
+},
+{
+"name": "Bernard Montgomery",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 439511,
+"women": 1,
+"territory": 8306
+},
+{
+"name": "Bernardo O'Higgins",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 38123,
+"women": 2,
+"territory": 2100
+},
+{
+"name": "Bertrand du Guesclin",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 1852623,
+"women": 26,
+"territory": 363113
+},
+{
+"name": "Bindusara I Maurya",
+"era": "Dinastia Maurya",
+"emoji": "🕉️",
+"kills": 203513,
+"women": 111,
+"territory": 1154092
+},
+{
+"name": "Boleslao I di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 29555,
+"women": 2,
+"territory": 84384
+},
+{
+"name": "Boleslao II di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 24636,
+"women": 17,
+"territory": 231784
+},
+{
+"name": "Boleslao III di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 45368,
+"women": 7,
+"territory": 1138151
+},
+{
+"name": "Boleslao IV di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 33683,
+"women": 5,
+"territory": 83188
+},
+{
+"name": "Boleslao V di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 38596,
+"women": 3,
+"territory": 615589
+},
+{
+"name": "Boris Godunov",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 114935,
+"women": 3,
+"territory": 2450635
+},
+{
+"name": "Boris I di Bulgaria",
+"era": "Regno di Bulgaria",
+"emoji": "🦁",
+"kills": 211488,
+"women": 13,
+"territory": 83030
+},
+{
+"name": "Boris II di Bulgaria",
+"era": "Regno di Bulgaria",
+"emoji": "🦁",
+"kills": 176959,
+"women": 8,
+"territory": 207073
+},
+{
+"name": "Boris III di Bulgaria",
+"era": "Regno di Bulgaria",
+"emoji": "🦁",
+"kills": 247887,
+"women": 6,
+"territory": 761256
+},
+{
+"name": "Boudicca",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 878135,
+"women": 6,
+"territory": 1494
+},
+{
+"name": "Brasida",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 47780,
+"women": 3,
+"territory": 118
+},
+{
+"name": "Brian I Boru",
+"era": "Regno d'Irlanda",
+"emoji": "🍀",
+"kills": 47685,
+"women": 2,
+"territory": 189452
+},
+{
+"name": "Calico Jack",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 123794,
+"women": 5,
+"territory": 233111
+},
+{
+"name": "Caligola",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 30000,
+"women": 10,
+"territory": 5000000
+},
+{
+"name": "Cambise II",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 200000,
+"women": 5,
+"territory": 5500000
+},
+{
+"name": "Cangrande della Scala",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 369677,
+"women": 5,
+"territory": 219614
+},
+{
+"name": "Canuto I il Grande",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 83484,
+"women": 51,
+"territory": 47159
+},
+{
+"name": "Canuto II il Grande",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 1022230,
+"women": 48,
+"territory": 63894
+},
+{
+"name": "Cao Cao",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 433986,
+"women": 167,
+"territory": 1420094
+},
+{
+"name": "Caracalla",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 421361,
+"women": 28,
+"territory": 1020318
+},
+{
+"name": "Carino",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 116799,
+"women": 106,
+"territory": 650312
+},
+{
+"name": "Carlo I d'Angio",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 232226,
+"women": 23,
+"territory": 110551
+},
+{
+"name": "Carlo I d'Austria",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 114579,
+"women": 116,
+"territory": 4548688
+},
+{
+"name": "Carlo I d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 98049,
+"women": 11,
+"territory": 335334
+},
+{
+"name": "Carlo II d'Angio",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 37833,
+"women": 3,
+"territory": 229725
+},
+{
+"name": "Carlo II d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 48123,
+"women": 29,
+"territory": 1662025
+},
+{
+"name": "Carlo II di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 55534,
+"women": 13,
+"territory": 1148074
+},
+{
+"name": "Carlo III di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 76538,
+"women": 5,
+"territory": 174445
+},
+{
+"name": "Carlo IV di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 190329,
+"women": 6,
+"territory": 975765
+},
+{
+"name": "Carlo IV di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 81329,
+"women": 21,
+"territory": 144511
+},
+{
+"name": "Carlo IX di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 31958,
+"women": 3,
+"territory": 2310074
+},
+{
+"name": "Carlo IX di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 56801,
+"women": 21,
+"territory": 717213
+},
+{
+"name": "Carlo Magno",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 400000,
+"women": 18,
+"territory": 1200000
+},
+{
+"name": "Carlo V",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 1000000,
+"women": 2,
+"territory": 28000000
+},
+{
+"name": "Carlo V di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 70149,
+"women": 4,
+"territory": 187393
+},
+{
+"name": "Carlo VI di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 222337,
+"women": 3,
+"territory": 1771303
+},
+{
+"name": "Carlo VII di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 93799,
+"women": 8,
+"territory": 161294
+},
+{
+"name": "Carlo VIII di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 60718,
+"women": 8,
+"territory": 185525
+},
+{
+"name": "Carlo X di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 147598,
+"women": 3,
+"territory": 638561
+},
+{
+"name": "Carlo X di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 277958,
+"women": 17,
+"territory": 1044449
+},
+{
+"name": "Carlo XI di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 41271,
+"women": 18,
+"territory": 363212
+},
+{
+"name": "Carlo XII di Svezia",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 815927,
+"women": 11,
+"territory": 301012
+},
+{
+"name": "Carlo XIII di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 63960,
+"women": 4,
+"territory": 98921
+},
+{
+"name": "Carlo XIV di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 139256,
+"women": 17,
+"territory": 957968
+},
+{
+"name": "Carlo XV di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 156814,
+"women": 19,
+"territory": 509743
+},
+{
+"name": "Carlo XVI di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 43803,
+"women": 4,
+"territory": 1964192
+},
+{
+"name": "Caro",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 1039696,
+"women": 242,
+"territory": 733445
+},
+{
+"name": "Carol I di Romania",
+"era": "Regno di Romania",
+"emoji": "🦇",
+"kills": 29951,
+"women": 11,
+"territory": 183210
+},
+{
+"name": "Carol II di Romania",
+"era": "Regno di Romania",
+"emoji": "🦇",
+"kills": 78374,
+"women": 15,
+"territory": 143555
+},
+{
+"name": "Casimiro I di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 158997,
+"women": 16,
+"territory": 334683
+},
+{
+"name": "Casimiro II di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 39135,
+"women": 26,
+"territory": 249257
+},
+{
+"name": "Casimiro III di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 25526,
+"women": 25,
+"territory": 1243218
+},
+{
+"name": "Casimiro IV di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 32907,
+"women": 18,
+"territory": 711956
+},
+{
+"name": "Caterina la Grande",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 200000,
+"women": 22,
+"territory": 17000000
+},
+{
+"name": "Cesare Borgia",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 1707956,
+"women": 9,
+"territory": 15226
+},
+{
+"name": "Cetshwayo",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 50000,
+"women": 20,
+"territory": 30000
+},
+{
+"name": "Chandragupta I Gupta",
+"era": "Dinastia Gupta",
+"emoji": "🕉️",
+"kills": 115628,
+"women": 166,
+"territory": 1208045
+},
+{
+"name": "Chandragupta II Gupta",
+"era": "Dinastia Gupta",
+"emoji": "🕉️",
+"kills": 112829,
+"women": 184,
+"territory": 689387
+},
+{
+"name": "Chandragupta Maurya",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 500000,
+"women": 500,
+"territory": 5000000
+},
+{
+"name": "Charles Taylor",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 2418414,
+"women": 1,
+"territory": 792427
+},
+{
+"name": "Chester Nimitz",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 251181,
+"women": 8,
+"territory": 35
+},
+{
+"name": "Chiang Kai-shek",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 10000000,
+"women": 4,
+"territory": 11400000
+},
+{
+"name": "Chosokabe Motochika",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 1333913,
+"women": 17,
+"territory": 69440
+},
+{
+"name": "Cimone",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 577595,
+"women": 6,
+"territory": 71675
+},
+{
+"name": "Ciro il Grande",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 400000,
+"women": 360,
+"territory": 5500000
+},
+{
+"name": "Cixi",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 533189,
+"women": 45,
+"territory": 2400181
+},
+{
+"name": "Claude Auchinleck",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 795986,
+"women": 2,
+"territory": 3422
+},
+{
+"name": "Claudio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 82627,
+"women": 41,
+"territory": 1888971
+},
+{
+"name": "Claudio il Gotico",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 196751,
+"women": 357,
+"territory": 1130031
+},
+{
+"name": "Colin Powell",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 639294,
+"women": 6,
+"territory": 20
+},
+{
+"name": "Commodo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 20000,
+"women": 300,
+"territory": 5000000
+},
+{
+"name": "Corrado I di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 18895,
+"women": 11,
+"territory": 116391
+},
+{
+"name": "Corrado II di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 131132,
+"women": 5,
+"territory": 169280
+},
+{
+"name": "Corrado III di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 265482,
+"women": 23,
+"territory": 379992
+},
+{
+"name": "Corrado IV di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 113305,
+"women": 24,
+"territory": 143522
+},
+{
+"name": "Corrado IV di Svevia",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 304486,
+"women": 14,
+"territory": 183392
+},
+{
+"name": "Cosimo de' Medici",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 27182,
+"women": 30,
+"territory": 536658
+},
+{
+"name": "Cosroe I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 300000,
+"women": 100,
+"territory": 3600000
+},
+{
+"name": "Costante",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 681754,
+"women": 52,
+"territory": 1576565
+},
+{
+"name": "Costante II",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 99885,
+"women": 123,
+"territory": 625420
+},
+{
+"name": "Costantino I di Grecia",
+"era": "Regno di Grecia",
+"emoji": "🏛️",
+"kills": 280531,
+"women": 8,
+"territory": 473499
+},
+{
+"name": "Costantino II",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 302028,
+"women": 53,
+"territory": 1247414
+},
+{
+"name": "Costantino II di Grecia",
+"era": "Regno di Grecia",
+"emoji": "🏛️",
+"kills": 91104,
+"women": 23,
+"territory": 187155
+},
+{
+"name": "Costantino IV",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 115625,
+"women": 76,
+"territory": 2591978
+},
+{
+"name": "Costantino IX",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 939258,
+"women": 29,
+"territory": 701620
+},
+{
+"name": "Costantino V",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 150031,
+"women": 53,
+"territory": 736395
+},
+{
+"name": "Costantino VII",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 867972,
+"women": 32,
+"territory": 2467978
+},
+{
+"name": "Costantino VIII",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 868936,
+"women": 254,
+"territory": 1378414
+},
+{
+"name": "Costantino X",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 411756,
+"women": 223,
+"territory": 1253813
+},
+{
+"name": "Costantino XI Paleologo",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 798397,
+"women": 22,
+"territory": 5536910
+},
+{
+"name": "Costantino il Grande",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 500000,
+"women": 3,
+"territory": 4400000
+},
+{
+"name": "Costanzo Cloro",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 153061,
+"women": 238,
+"territory": 1748780
+},
+{
+"name": "Costanzo II",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 99924,
+"women": 62,
+"territory": 1951527
+},
+{
+"name": "Crasso",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 200000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Cristiano I di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 15810,
+"women": 30,
+"territory": 570532
+},
+{
+"name": "Cristiano II di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 22301,
+"women": 12,
+"territory": 937480
+},
+{
+"name": "Cristiano III di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 77791,
+"women": 8,
+"territory": 92836
+},
+{
+"name": "Cristiano IV di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 43957,
+"women": 22,
+"territory": 1063227
+},
+{
+"name": "Cristiano IX di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 140149,
+"women": 25,
+"territory": 1555759
+},
+{
+"name": "Cristiano V di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 20900,
+"women": 3,
+"territory": 159343
+},
+{
+"name": "Cristiano VI di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 29965,
+"women": 30,
+"territory": 200148
+},
+{
+"name": "Cristiano VII di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 240516,
+"women": 17,
+"territory": 86465
+},
+{
+"name": "Cristiano VIII di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 100166,
+"women": 29,
+"territory": 1167293
+},
+{
+"name": "Cristiano X di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 31943,
+"women": 21,
+"territory": 1957451
+},
+{
+"name": "Cristoforo Colombo",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 100000,
+"women": 3,
+"territory": 0
+},
+{
+"name": "Curtis LeMay",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 701423,
+"women": 5,
+"territory": 463
+},
+{
+"name": "Dario I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 300000,
+"women": 360,
+"territory": 5500000
+},
+{
+"name": "Date Masamune",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 1044533,
+"women": 2,
+"territory": 61388
+},
+{
+"name": "Davide I di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 18309,
+"women": 5,
+"territory": 963881
+},
+{
+"name": "Davide I di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 18650,
+"women": 7,
+"territory": 1299856
+},
+{
+"name": "Davide II di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 62521,
+"women": 26,
+"territory": 207128
+},
+{
+"name": "Davide II di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 165748,
+"women": 9,
+"territory": 704925
+},
+{
+"name": "Davide III di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 213849,
+"women": 4,
+"territory": 1394606
+},
+{
+"name": "Davide IV di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 30763,
+"women": 22,
+"territory": 374203
+},
+{
+"name": "Decio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 347875,
+"women": 123,
+"territory": 1473218
+},
+{
+"name": "Demetrio I di Macedonia",
+"era": "Regni greci ellenistici",
+"emoji": "🏛️",
+"kills": 135898,
+"women": 12,
+"territory": 117554
+},
+{
+"name": "Demetrio II di Macedonia",
+"era": "Regni greci ellenistici",
+"emoji": "🏛️",
+"kills": 75280,
+"women": 4,
+"territory": 1250119
+},
+{
+"name": "Demetrio III di Macedonia",
+"era": "Regni greci ellenistici",
+"emoji": "🏛️",
+"kills": 39433,
+"women": 2,
+"territory": 1028977
+},
+{
+"name": "Deva Raya I Vijayanagara",
+"era": "Impero Vijayanagara",
+"emoji": "🕉️",
+"kills": 99055,
+"women": 9,
+"territory": 226423
+},
+{
+"name": "Deva Raya II Vijayanagara",
+"era": "Impero Vijayanagara",
+"emoji": "🕉️",
+"kills": 132153,
+"women": 7,
+"territory": 189665
+},
+{
+"name": "Didio Giuliano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 141707,
+"women": 319,
+"territory": 5757838
+},
+{
+"name": "Diego de Almagro",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 2508,
+"women": 6,
+"territory": 143452
+},
+{
+"name": "Dingane",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 119299,
+"women": 18,
+"territory": 211192
+},
+{
+"name": "Diocleziano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 300000,
+"women": 1,
+"territory": 5000000
+},
+{
+"name": "Domiziano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 349227,
+"women": 84,
+"territory": 3825456
+},
+{
+"name": "Douglas Haig",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 35969,
+"women": 5,
+"territory": 50639
+},
+{
+"name": "Douglas MacArthur",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 190945,
+"women": 1,
+"territory": 320
+},
+{
+"name": "Dragut",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 1769732,
+"women": 38,
+"territory": 326716
+},
+{
+"name": "Dwight Eisenhower",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 35846,
+"women": 4,
+"territory": 28155
+},
+{
+"name": "Edmondo I d'Inghilterra",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 325579,
+"women": 2,
+"territory": 452315
+},
+{
+"name": "Edmondo II d'Inghilterra",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 29705,
+"women": 24,
+"territory": 116845
+},
+{
+"name": "Edoardo I",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 100000,
+"women": 3,
+"territory": 150000
+},
+{
+"name": "Edoardo I il Vecchio",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 23016,
+"women": 5,
+"territory": 2445085
+},
+{
+"name": "Edoardo II",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 261101,
+"women": 26,
+"territory": 2014102
+},
+{
+"name": "Edoardo II il Vecchio",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 38209,
+"women": 10,
+"territory": 336701
+},
+{
+"name": "Edoardo III",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 21277,
+"women": 21,
+"territory": 337946
+},
+{
+"name": "Edoardo III il Vecchio",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 19795,
+"women": 16,
+"territory": 214814
+},
+{
+"name": "Edoardo IV",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 17625,
+"women": 5,
+"territory": 162810
+},
+{
+"name": "Edoardo VI",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 91237,
+"women": 5,
+"territory": 1364514
+},
+{
+"name": "Edoardo VII",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 125361,
+"women": 5,
+"territory": 526782
+},
+{
+"name": "El Cid",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 116165,
+"women": 11,
+"territory": 372997
+},
+{
+"name": "Eliogabalo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 907328,
+"women": 238,
+"territory": 5865452
+},
+{
+"name": "Elisabetta I",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 100000,
+"women": 0,
+"territory": 250000
+},
+{
+"name": "Elisabetta di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 26192,
+"women": 24,
+"territory": 150102
+},
+{
+"name": "Emiliano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 145540,
+"women": 173,
+"territory": 2923702
+},
+{
+"name": "Emiliano Zapata",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 112559,
+"women": 4,
+"territory": 40178
+},
+{
+"name": "Emilio Paolo",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 138647,
+"women": 5,
+"territory": 7461
+},
+{
+"name": "Enrico I d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 148412,
+"women": 3,
+"territory": 119385
+},
+{
+"name": "Enrico I di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 92639,
+"women": 27,
+"territory": 216033
+},
+{
+"name": "Enrico I di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 52390,
+"women": 18,
+"territory": 509141
+},
+{
+"name": "Enrico I di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 69491,
+"women": 4,
+"territory": 249817
+},
+{
+"name": "Enrico II d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 27793,
+"women": 10,
+"territory": 211763
+},
+{
+"name": "Enrico II di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 68282,
+"women": 19,
+"territory": 636385
+},
+{
+"name": "Enrico II di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 22415,
+"women": 16,
+"territory": 671582
+},
+{
+"name": "Enrico II di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 21423,
+"women": 10,
+"territory": 140754
+},
+{
+"name": "Enrico III d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 19393,
+"women": 16,
+"territory": 430645
+},
+{
+"name": "Enrico III di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 106532,
+"women": 23,
+"territory": 244582
+},
+{
+"name": "Enrico III di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 60769,
+"women": 9,
+"territory": 553155
+},
+{
+"name": "Enrico III di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 133869,
+"women": 5,
+"territory": 734901
+},
+{
+"name": "Enrico IV d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 30873,
+"women": 16,
+"territory": 213269
+},
+{
+"name": "Enrico IV di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 268598,
+"women": 14,
+"territory": 210563
+},
+{
+"name": "Enrico IV di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 95871,
+"women": 26,
+"territory": 751194
+},
+{
+"name": "Enrico IV di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 248417,
+"women": 10,
+"territory": 88104
+},
+{
+"name": "Enrico V",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 100000,
+"women": 2,
+"territory": 250000
+},
+{
+"name": "Enrico V di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 27378,
+"women": 2,
+"territory": 85402
+},
+{
+"name": "Enrico VI",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 331950,
+"women": 11,
+"territory": 130399
+},
+{
+"name": "Enrico VI di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 70492,
+"women": 5,
+"territory": 261564
+},
+{
+"name": "Enrico VII",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 107669,
+"women": 17,
+"territory": 379249
+},
+{
+"name": "Enrico VII di Germania",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 337431,
+"women": 10,
+"territory": 359004
+},
+{
+"name": "Enrico VIII",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 72000,
+"women": 6,
+"territory": 250000
+},
+{
+"name": "Enver Hoxha",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 1934376,
+"women": 5,
+"territory": 2183137
+},
+{
+"name": "Epaminonda",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 705236,
+"women": 6,
+"territory": 3
+},
+{
+"name": "Eraclio",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 400000,
+"women": 2,
+"territory": 2000000
+},
+{
+"name": "Erich Ludendorff",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 2000000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Erwin Rommel",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 100000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Etelredo I d'Inghilterra",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 60925,
+"women": 14,
+"territory": 2373333
+},
+{
+"name": "Etelredo II d'Inghilterra",
+"era": "Regni anglosassoni",
+"emoji": "⚔️",
+"kills": 80444,
+"women": 15,
+"territory": 200375
+},
+{
+"name": "Ezzelino III da Romano",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 712554,
+"women": 50,
+"territory": 308326
+},
+{
+"name": "Fabio Massimo",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 105137,
+"women": 5,
+"territory": 10
+},
+{
+"name": "Farnace I del Ponto",
+"era": "Regno del Ponto",
+"emoji": "🏔️",
+"kills": 140800,
+"women": 4,
+"territory": 1779726
+},
+{
+"name": "Farnace II del Ponto",
+"era": "Regno del Ponto",
+"emoji": "🏔️",
+"kills": 64533,
+"women": 3,
+"territory": 144298
+},
+{
+"name": "Faruq d'Egitto",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 1226054,
+"women": 304,
+"territory": 1004771
+},
+{
+"name": "Fath Ali Shah",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 379487,
+"women": 22,
+"territory": 987538
+},
+{
+"name": "Faysal I dell'Iraq",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 502621,
+"women": 77,
+"territory": 757498
+},
+{
+"name": "Federico Barbarossa",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 200000,
+"women": 3,
+"territory": 1000000
+},
+{
+"name": "Federico Guglielmo I di Prussia",
+"era": "Regno di Prussia",
+"emoji": "🦅",
+"kills": 232752,
+"women": 26,
+"territory": 273951
+},
+{
+"name": "Federico Guglielmo II di Prussia",
+"era": "Regno di Prussia",
+"emoji": "🦅",
+"kills": 269020,
+"women": 6,
+"territory": 149678
+},
+{
+"name": "Federico Guglielmo III di Prussia",
+"era": "Regno di Prussia",
+"emoji": "🦅",
+"kills": 25743,
+"women": 5,
+"territory": 87078
+},
+{
+"name": "Federico Guglielmo IV di Prussia",
+"era": "Regno di Prussia",
+"emoji": "🦅",
+"kills": 53129,
+"women": 13,
+"territory": 969863
+},
+{
+"name": "Federico I di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 24223,
+"women": 29,
+"territory": 2395343
+},
+{
+"name": "Federico I di Svevia",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 18369,
+"women": 4,
+"territory": 1145255
+},
+{
+"name": "Federico II di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 214038,
+"women": 3,
+"territory": 898002
+},
+{
+"name": "Federico II di Svevia",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 26943,
+"women": 11,
+"territory": 287463
+},
+{
+"name": "Federico III di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 160385,
+"women": 15,
+"territory": 280110
+},
+{
+"name": "Federico III di Germania",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 1237398,
+"women": 179,
+"territory": 714277
+},
+{
+"name": "Federico III di Svevia",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 25791,
+"women": 12,
+"territory": 587330
+},
+{
+"name": "Federico IV di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 20843,
+"women": 2,
+"territory": 83902
+},
+{
+"name": "Federico IX di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 208655,
+"women": 2,
+"territory": 205333
+},
+{
+"name": "Federico V di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 81322,
+"women": 14,
+"territory": 172427
+},
+{
+"name": "Federico VI di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 390649,
+"women": 4,
+"territory": 950274
+},
+{
+"name": "Federico VII di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 30761,
+"women": 12,
+"territory": 217221
+},
+{
+"name": "Federico VIII di Danimarca",
+"era": "Regno di Danimarca",
+"emoji": "❄️",
+"kills": 16818,
+"women": 4,
+"territory": 615496
+},
+{
+"name": "Federico da Montefeltro",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 1048300,
+"women": 5,
+"territory": 69815
+},
+{
+"name": "Federico di Napoli",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 163478,
+"women": 13,
+"territory": 677996
+},
+{
+"name": "Federico il Grande",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 500000,
+"women": 1,
+"territory": 195000
+},
+{
+"name": "Ferdinand Foch",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 84935,
+"women": 5,
+"territory": 290
+},
+{
+"name": "Ferdinand Marcos",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 7784455,
+"women": 15,
+"territory": 330579
+},
+{
+"name": "Ferdinando I d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 30621,
+"women": 8,
+"territory": 83992
+},
+{
+"name": "Ferdinando I di Napoli",
+"era": "Regno di Napoli",
+"emoji": "🌋",
+"kills": 63188,
+"women": 5,
+"territory": 81908
+},
+{
+"name": "Ferdinando II d'Aragona",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 26601,
+"women": 4,
+"territory": 1054392
+},
+{
+"name": "Ferdinando II d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 192704,
+"women": 3,
+"territory": 106861
+},
+{
+"name": "Ferdinando II di Napoli",
+"era": "Regno di Napoli",
+"emoji": "🌋",
+"kills": 80735,
+"women": 15,
+"territory": 898466
+},
+{
+"name": "Ferdinando III d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 158019,
+"women": 7,
+"territory": 521206
+},
+{
+"name": "Ferdinando III di Napoli",
+"era": "Regno di Napoli",
+"emoji": "🌋",
+"kills": 104815,
+"women": 6,
+"territory": 96484
+},
+{
+"name": "Ferdinando IV di Napoli",
+"era": "Regno di Napoli",
+"emoji": "🌋",
+"kills": 169471,
+"women": 4,
+"territory": 1500687
+},
+{
+"name": "Ferdinando Magellano",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 5000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Ferdinando VI",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 80355,
+"women": 13,
+"territory": 242893
+},
+{
+"name": "Ferdinando VII",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 32832,
+"women": 13,
+"territory": 1846730
+},
+{
+"name": "Ferrante di Napoli",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 67045,
+"women": 6,
+"territory": 2114805
+},
+{
+"name": "Fidel Castro",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 507663,
+"women": 5,
+"territory": 105895
+},
+{
+"name": "Filippo I di Borgogna",
+"era": "Casato di Valois",
+"emoji": "⚜️",
+"kills": 350801,
+"women": 16,
+"territory": 251297
+},
+{
+"name": "Filippo I di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 18779,
+"women": 6,
+"territory": 1941233
+},
+{
+"name": "Filippo II Augusto",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 363005,
+"women": 26,
+"territory": 629416
+},
+{
+"name": "Filippo II di Borgogna",
+"era": "Casato di Valois",
+"emoji": "⚜️",
+"kills": 21190,
+"women": 3,
+"territory": 318524
+},
+{
+"name": "Filippo II di Macedonia",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 200000,
+"women": 7,
+"territory": 500000
+},
+{
+"name": "Filippo II di Spagna",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 2000000,
+"women": 4,
+"territory": 31000000
+},
+{
+"name": "Filippo III di Borgogna",
+"era": "Casato di Valois",
+"emoji": "⚜️",
+"kills": 20237,
+"women": 4,
+"territory": 98608
+},
+{
+"name": "Filippo III di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 265570,
+"women": 24,
+"territory": 1792737
+},
+{
+"name": "Filippo III di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 350236,
+"women": 8,
+"territory": 2464116
+},
+{
+"name": "Filippo IV di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 313438,
+"women": 3,
+"territory": 284885
+},
+{
+"name": "Filippo IV il Bello",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 15408,
+"women": 2,
+"territory": 347570
+},
+{
+"name": "Filippo V di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 73092,
+"women": 7,
+"territory": 885731
+},
+{
+"name": "Filippo V di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 79292,
+"women": 23,
+"territory": 643093
+},
+{
+"name": "Filippo VI di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 24478,
+"women": 9,
+"territory": 946305
+},
+{
+"name": "Filippo di Svevia",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 91932,
+"women": 15,
+"territory": 707061
+},
+{
+"name": "Filippo l'Arabo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 191493,
+"women": 36,
+"territory": 5395697
+},
+{
+"name": "Flavio Ezio",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 78190,
+"women": 6,
+"territory": 277312
+},
+{
+"name": "Floriano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 313672,
+"women": 47,
+"territory": 808710
+},
+{
+"name": "Foday Sankoh",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 2089343,
+"women": 3,
+"territory": 133714
+},
+{
+"name": "Francesco Giuseppe I",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 622970,
+"women": 106,
+"territory": 676731
+},
+{
+"name": "Francesco I di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 56932,
+"women": 8,
+"territory": 988460
+},
+{
+"name": "Francesco II di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 44366,
+"women": 4,
+"territory": 115672
+},
+{
+"name": "Francesco Petrarca il Vecchio",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 179504,
+"women": 18,
+"territory": 92380
+},
+{
+"name": "Francesco Sforza",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 311544,
+"women": 10,
+"territory": 144369
+},
+{
+"name": "Francis Drake",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 2624,
+"women": 3,
+"territory": 401688
+},
+{
+"name": "Francisco Franco",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 500000,
+"women": 1,
+"territory": 500000
+},
+{
+"name": "Francisco Macias Nguema",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 351909,
+"women": 7,
+"territory": 4
+},
+{
+"name": "Francisco Pizarro",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 500000,
+"women": 4,
+"territory": 2000000
+},
+{
+"name": "Francisco Solano Lopez",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 3163136,
+"women": 4,
+"territory": 1828105
+},
+{
+"name": "Francisco Vazquez de Coronado",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 5988,
+"women": 4,
+"territory": 2363332
+},
+{
+"name": "Francisco de Orellana",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 224482,
+"women": 8,
+"territory": 1197370
+},
+{
+"name": "Francois l'Olonnais",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 1447095,
+"women": 5,
+"territory": 79999
+},
+{
+"name": "Friedrich Paulus",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 33335,
+"women": 1,
+"territory": 0
+},
+{
+"name": "Fu Jian",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 216926,
+"women": 38,
+"territory": 1069079
+},
+{
+"name": "Fuad I d'Egitto",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 1424154,
+"women": 396,
+"territory": 1223653
+},
+{
+"name": "Gaio Mario",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 300000,
+"women": 4,
+"territory": 0
+},
+{
+"name": "Galba",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 110878,
+"women": 117,
+"territory": 2273270
+},
+{
+"name": "Galerio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 1117038,
+"women": 240,
+"territory": 1557852
+},
+{
+"name": "Gallieno",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 602557,
+"women": 98,
+"territory": 673096
+},
+{
+"name": "Gebhard von Blucher",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 69247,
+"women": 3,
+"territory": 471
+},
+{
+"name": "Gediminas I di Lituania",
+"era": "Granducato di Lituania",
+"emoji": "🦬",
+"kills": 35161,
+"women": 4,
+"territory": 1738424
+},
+{
+"name": "Gengis Khan",
+"era": "Antichità / Medioevo",
+"emoji": "🐎",
+"kills": 40000000,
+"women": 3000,
+"territory": 24000000
+},
+{
+"name": "George Marshall",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 34000,
+"women": 9,
+"territory": 44189
+},
+{
+"name": "George Patton",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 100000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "George Washington",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 119348,
+"women": 1,
+"territory": 735
+},
+{
+"name": "Georgij Zukov",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 500000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Gerd von Rundstedt",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 123957,
+"women": 1,
+"territory": 107
+},
+{
+"name": "Germanico",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 71832,
+"women": 5,
+"territory": 0
+},
+{
+"name": "Geta",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 610325,
+"women": 20,
+"territory": 969729
+},
+{
+"name": "Giacomo I d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 372311,
+"women": 26,
+"territory": 186532
+},
+{
+"name": "Giacomo I d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 23778,
+"women": 11,
+"territory": 1303997
+},
+{
+"name": "Giacomo I di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 89719,
+"women": 20,
+"territory": 133375
+},
+{
+"name": "Giacomo II d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 168652,
+"women": 7,
+"territory": 84180
+},
+{
+"name": "Giacomo II d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 36572,
+"women": 11,
+"territory": 673924
+},
+{
+"name": "Giacomo II di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 87340,
+"women": 19,
+"territory": 1072850
+},
+{
+"name": "Giacomo III di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 64535,
+"women": 21,
+"territory": 1530986
+},
+{
+"name": "Giacomo IV di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 27134,
+"women": 17,
+"territory": 220057
+},
+{
+"name": "Giacomo V di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 92616,
+"women": 3,
+"territory": 102534
+},
+{
+"name": "Gian Galeazzo Visconti",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 79534,
+"women": 10,
+"territory": 2214872
+},
+{
+"name": "Gian Giacomo Trivulzio",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 1415829,
+"women": 7,
+"territory": 60650
+},
+{
+"name": "Giorgio I",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 44120,
+"women": 2,
+"territory": 1635191
+},
+{
+"name": "Giorgio I di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 17173,
+"women": 4,
+"territory": 440066
+},
+{
+"name": "Giorgio I di Grecia",
+"era": "Regno di Grecia",
+"emoji": "🏛️",
+"kills": 156835,
+"women": 6,
+"territory": 2377376
+},
+{
+"name": "Giorgio II",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 181147,
+"women": 4,
+"territory": 111428
+},
+{
+"name": "Giorgio II di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 50472,
+"women": 17,
+"territory": 110144
+},
+{
+"name": "Giorgio II di Grecia",
+"era": "Regno di Grecia",
+"emoji": "🏛️",
+"kills": 139659,
+"women": 6,
+"territory": 378407
+},
+{
+"name": "Giorgio III",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 190926,
+"women": 11,
+"territory": 159866
+},
+{
+"name": "Giorgio III di Georgia",
+"era": "Regno di Georgia",
+"emoji": "🏔️",
+"kills": 160083,
+"women": 10,
+"territory": 866247
+},
+{
+"name": "Giorgio IV",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 241498,
+"women": 6,
+"territory": 1875086
+},
+{
+"name": "Giorgio V",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 118277,
+"women": 7,
+"territory": 203327
+},
+{
+"name": "Giorgio VI",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 65036,
+"women": 19,
+"territory": 882806
+},
+{
+"name": "Giovanna I di Napoli",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 33580,
+"women": 16,
+"territory": 840923
+},
+{
+"name": "Giovanni Caboto",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 3215,
+"women": 4,
+"territory": 2232180
+},
+{
+"name": "Giovanni Hunyadi",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 112067,
+"women": 37,
+"territory": 29334
+},
+{
+"name": "Giovanni I Zimisce",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 215978,
+"women": 32,
+"territory": 742734
+},
+{
+"name": "Giovanni I del Portogallo",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 70331,
+"women": 4,
+"territory": 662645
+},
+{
+"name": "Giovanni II",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 133623,
+"women": 12,
+"territory": 123784
+},
+{
+"name": "Giovanni II Comneno",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 95684,
+"women": 131,
+"territory": 4571346
+},
+{
+"name": "Giovanni II del Portogallo",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 179945,
+"women": 3,
+"territory": 132656
+},
+{
+"name": "Giovanni III del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 221885,
+"women": 16,
+"territory": 372841
+},
+{
+"name": "Giovanni IV del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 124340,
+"women": 9,
+"territory": 665029
+},
+{
+"name": "Giovanni Senzaterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 16640,
+"women": 25,
+"territory": 2045793
+},
+{
+"name": "Giovanni V del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 383977,
+"women": 26,
+"territory": 1225269
+},
+{
+"name": "Giovanni VI Cantacuzeno",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 992973,
+"women": 72,
+"territory": 1169356
+},
+{
+"name": "Giovanni VI del Portogallo",
+"era": "Regno del Portogallo",
+"emoji": "🏵️",
+"kills": 83407,
+"women": 23,
+"territory": 116109
+},
+{
+"name": "Gioviano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 516207,
+"women": 43,
+"territory": 1912101
+},
+{
+"name": "Giuba I di Numidia",
+"era": "Regno di Numidia",
+"emoji": "🏜️",
+"kills": 46528,
+"women": 12,
+"territory": 584624
+},
+{
+"name": "Giuba II di Numidia",
+"era": "Regno di Numidia",
+"emoji": "🏜️",
+"kills": 28414,
+"women": 4,
+"territory": 126593
+},
+{
+"name": "Giuliano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 763662,
+"women": 108,
+"territory": 728819
+},
+{
+"name": "Giulio Cesare",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 1200000,
+"women": 100,
+"territory": 1900000
+},
+{
+"name": "Giuseppe Garibaldi",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 183485,
+"women": 1,
+"territory": 30526
+},
+{
+"name": "Giuseppe I d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 315545,
+"women": 3,
+"territory": 350229
+},
+{
+"name": "Giuseppe II d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 54547,
+"women": 9,
+"territory": 398752
+},
+{
+"name": "Giustiniano I",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 500000,
+"women": 2,
+"territory": 3500000
+},
+{
+"name": "Giustiniano II",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 198089,
+"women": 113,
+"territory": 1249380
+},
+{
+"name": "Giustino I",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 275546,
+"women": 40,
+"territory": 2890784
+},
+{
+"name": "Gonzalo de Cordoba",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 2083703,
+"women": 5,
+"territory": 20378
+},
+{
+"name": "Gordiano I",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 409308,
+"women": 347,
+"territory": 894045
+},
+{
+"name": "Gordiano II",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 146859,
+"women": 29,
+"territory": 813724
+},
+{
+"name": "Gordiano III",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 247066,
+"women": 32,
+"territory": 3884487
+},
+{
+"name": "Graziano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 1082478,
+"women": 39,
+"territory": 1861811
+},
+{
+"name": "Guangwu",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 352345,
+"women": 391,
+"territory": 748953
+},
+{
+"name": "Guglielmina dei Paesi Bassi",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 221242,
+"women": 38,
+"territory": 1887099
+},
+{
+"name": "Guglielmo I dei Paesi Bassi",
+"era": "Regno dei Paesi Bassi",
+"emoji": "🌷",
+"kills": 92040,
+"women": 16,
+"territory": 208066
+},
+{
+"name": "Guglielmo I di Germania",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 761746,
+"women": 27,
+"territory": 2520559
+},
+{
+"name": "Guglielmo I di Prussia",
+"era": "Regno di Prussia",
+"emoji": "🦅",
+"kills": 54475,
+"women": 21,
+"territory": 286379
+},
+{
+"name": "Guglielmo I di Sicilia",
+"era": "Regno di Sicilia",
+"emoji": "🌋",
+"kills": 29277,
+"women": 8,
+"territory": 159691
+},
+{
+"name": "Guglielmo II",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 10000000,
+"women": 2,
+"territory": 2600000
+},
+{
+"name": "Guglielmo II d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 16748,
+"women": 14,
+"territory": 198077
+},
+{
+"name": "Guglielmo II dei Paesi Bassi",
+"era": "Regno dei Paesi Bassi",
+"emoji": "🌷",
+"kills": 42756,
+"women": 11,
+"territory": 453387
+},
+{
+"name": "Guglielmo II di Prussia",
+"era": "Regno di Prussia",
+"emoji": "🦅",
+"kills": 82568,
+"women": 14,
+"territory": 320405
+},
+{
+"name": "Guglielmo II di Sicilia",
+"era": "Regno di Sicilia",
+"emoji": "🌋",
+"kills": 35096,
+"women": 5,
+"territory": 241750
+},
+{
+"name": "Guglielmo III d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 278170,
+"women": 11,
+"territory": 1979157
+},
+{
+"name": "Guglielmo III dei Paesi Bassi",
+"era": "Regno dei Paesi Bassi",
+"emoji": "🌷",
+"kills": 36515,
+"women": 19,
+"territory": 778065
+},
+{
+"name": "Guglielmo IV",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 92105,
+"women": 6,
+"territory": 1838119
+},
+{
+"name": "Guglielmo il Conquistatore",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 100000,
+"women": 10,
+"territory": 150000
+},
+{
+"name": "Gustavo Adolfo di Svezia",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 179313,
+"women": 37,
+"territory": 124625
+},
+{
+"name": "Gustavo I di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 51771,
+"women": 4,
+"territory": 307827
+},
+{
+"name": "Gustavo II di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 259449,
+"women": 7,
+"territory": 191164
+},
+{
+"name": "Gustavo III di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 241711,
+"women": 2,
+"territory": 431433
+},
+{
+"name": "Gustavo IV di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 107484,
+"women": 4,
+"territory": 127233
+},
+{
+"name": "Gustavo V di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 98940,
+"women": 2,
+"territory": 424229
+},
+{
+"name": "Gustavo VI di Svezia",
+"era": "Regno di Svezia",
+"emoji": "❄️",
+"kills": 80656,
+"women": 15,
+"territory": 2281224
+},
+{
+"name": "Guyuk Khan",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 825983,
+"women": 442,
+"territory": 5343867
+},
+{
+"name": "Haakon I di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 81892,
+"women": 2,
+"territory": 1406932
+},
+{
+"name": "Haakon II di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 384555,
+"women": 6,
+"territory": 1134048
+},
+{
+"name": "Haakon III di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 81603,
+"women": 2,
+"territory": 124183
+},
+{
+"name": "Haakon IV di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 110594,
+"women": 13,
+"territory": 198317
+},
+{
+"name": "Haakon V di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 22252,
+"women": 3,
+"territory": 291666
+},
+{
+"name": "Haakon VI di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 60401,
+"women": 3,
+"territory": 103580
+},
+{
+"name": "Haakon VII di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 15725,
+"women": 29,
+"territory": 1424548
+},
+{
+"name": "Hafez al-Assad",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 7907371,
+"women": 20,
+"territory": 753501
+},
+{
+"name": "Haile Selassie",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 700000,
+"women": 1,
+"territory": 1100000
+},
+{
+"name": "Han Gaozu",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 113169,
+"women": 239,
+"territory": 972122
+},
+{
+"name": "Harald I di Norvegia",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 182976,
+"women": 5,
+"territory": 21302
+},
+{
+"name": "Harald II di Norvegia",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 211958,
+"women": 2,
+"territory": 386416
+},
+{
+"name": "Harald III di Norvegia",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 2263672,
+"women": 29,
+"territory": 33815
+},
+{
+"name": "Harsha",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 234092,
+"women": 65,
+"territory": 3836322
+},
+{
+"name": "Harun al-Rashid",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 113259,
+"women": 3,
+"territory": 108552
+},
+{
+"name": "Heinz Guderian",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 542947,
+"women": 9,
+"territory": 1082
+},
+{
+"name": "Henry Every",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 553256,
+"women": 30,
+"territory": 250283
+},
+{
+"name": "Henry Morgan",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 855220,
+"women": 2,
+"territory": 22033
+},
+{
+"name": "Hermann Goring",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 58095,
+"women": 11,
+"territory": 74
+},
+{
+"name": "Hernan Cortes",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 500000,
+"women": 5,
+"territory": 2000000
+},
+{
+"name": "Hernando de Soto",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 101946,
+"women": 3,
+"territory": 598097
+},
+{
+"name": "Hideki Tojo",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 5000000,
+"women": 1,
+"territory": 7400000
+},
+{
+"name": "Hirohito",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 92781,
+"women": 44,
+"territory": 681030
+},
+{
+"name": "Hissene Habre",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 2124307,
+"women": 2,
+"territory": 3401277
+},
+{
+"name": "Ho Chi Minh",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 10878861,
+"women": 4,
+"territory": 138976
+},
+{
+"name": "Hojo Soun",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 205293,
+"women": 55,
+"territory": 14138
+},
+{
+"name": "Honda Tadakatsu",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 132956,
+"women": 6,
+"territory": 210787
+},
+{
+"name": "Hongwu",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 1409910,
+"women": 64,
+"territory": 2173001
+},
+{
+"name": "Horatio Nelson",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 30000,
+"women": 3,
+"territory": 0
+},
+{
+"name": "Huang Taiji",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 82332,
+"women": 139,
+"territory": 1231109
+},
+{
+"name": "Huayna I Capac",
+"era": "Impero inca",
+"emoji": "🏔️",
+"kills": 15035,
+"women": 8,
+"territory": 229200
+},
+{
+"name": "Hulagu Khan",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 2000000,
+"women": 500,
+"territory": 8000000
+},
+{
+"name": "Humayun",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 938845,
+"women": 63,
+"territory": 5101028
+},
+{
+"name": "Hyder Ali",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 156065,
+"women": 181,
+"territory": 1220974
+},
+{
+"name": "Ibn Saud",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 385714,
+"women": 61,
+"territory": 1161635
+},
+{
+"name": "Ibrahim I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 123829,
+"women": 243,
+"territory": 1224202
+},
+{
+"name": "Idi Amin",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 500000,
+"women": 30,
+"territory": 241000
+},
+{
+"name": "Idris Alooma",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 170563,
+"women": 8,
+"territory": 267336
+},
+{
+"name": "Ii Naomasa",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 116727,
+"women": 24,
+"territory": 14903
+},
+{
+"name": "Il Duca di Alba",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 385112,
+"women": 44,
+"territory": 44246
+},
+{
+"name": "Il Gran Conde",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 2001153,
+"women": 3,
+"territory": 76573
+},
+{
+"name": "Il Principe Eugenio",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 666916,
+"women": 53,
+"territory": 152760
+},
+{
+"name": "Imagawa Yoshimoto",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 566039,
+"women": 2,
+"territory": 393022
+},
+{
+"name": "Imperatore An di I Han",
+"era": "Dinastia Han",
+"emoji": "🐉",
+"kills": 978234,
+"women": 100,
+"territory": 634122
+},
+{
+"name": "Imperatore Chongzhen",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 377960,
+"women": 50,
+"territory": 1880287
+},
+{
+"name": "Imperatore Daoguang",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 158274,
+"women": 211,
+"territory": 5429788
+},
+{
+"name": "Imperatore Gaozu di Tang",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 497696,
+"women": 26,
+"territory": 2940639
+},
+{
+"name": "Imperatore Go-Daigo",
+"era": "Impero del Giappone",
+"emoji": "🎎",
+"kills": 265455,
+"women": 101,
+"territory": 1147497
+},
+{
+"name": "Imperatore Guangxu",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 202332,
+"women": 384,
+"territory": 1249763
+},
+{
+"name": "Imperatore Huizong",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 533780,
+"women": 150,
+"territory": 4262576
+},
+{
+"name": "Imperatore Jiajing",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 286674,
+"women": 239,
+"territory": 1267123
+},
+{
+"name": "Imperatore Jiaqing",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 831970,
+"women": 182,
+"territory": 2264073
+},
+{
+"name": "Imperatore Jing di Han",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 480575,
+"women": 348,
+"territory": 3664023
+},
+{
+"name": "Imperatore Ming di Han",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 175177,
+"women": 333,
+"territory": 1794220
+},
+{
+"name": "Imperatore Renzong di I Song",
+"era": "Dinastia Song",
+"emoji": "🐉",
+"kills": 234600,
+"women": 144,
+"territory": 2069430
+},
+{
+"name": "Imperatore Shizong di I Jin",
+"era": "Dinastia Jin",
+"emoji": "🐉",
+"kills": 503878,
+"women": 25,
+"territory": 1050717
+},
+{
+"name": "Imperatore Shunzhi",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 244919,
+"women": 111,
+"territory": 5402500
+},
+{
+"name": "Imperatore Taizong di Tang",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 1135675,
+"women": 91,
+"territory": 3989196
+},
+{
+"name": "Imperatore Taizu di Song",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 1232076,
+"women": 138,
+"territory": 894977
+},
+{
+"name": "Imperatore Wanli",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 246834,
+"women": 291,
+"territory": 2005632
+},
+{
+"name": "Imperatore Wen di Han",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 359735,
+"women": 89,
+"territory": 851126
+},
+{
+"name": "Imperatore Wen di Sui",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 386186,
+"women": 51,
+"territory": 4707528
+},
+{
+"name": "Imperatore Wu di Han",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 247930,
+"women": 26,
+"territory": 3414516
+},
+{
+"name": "Imperatore Xianfeng",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 583605,
+"women": 64,
+"territory": 888798
+},
+{
+"name": "Imperatore Xuanzong di Tang",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 515029,
+"women": 142,
+"territory": 2487921
+},
+{
+"name": "Imperatore Yang di Sui",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 746223,
+"women": 375,
+"territory": 2655943
+},
+{
+"name": "Imperatore Zhang di Han",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 263805,
+"women": 22,
+"territory": 4905515
+},
+{
+"name": "Imperatore Zhengde di I Ming",
+"era": "Dinastia Ming",
+"emoji": "🐉",
+"kills": 88817,
+"women": 295,
+"territory": 666507
+},
+{
+"name": "Imperatore Zhenzong",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 428566,
+"women": 188,
+"territory": 3820661
+},
+{
+"name": "Ion Antonescu",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 36224,
+"women": 6,
+"territory": 9
+},
+{
+"name": "Iosif Stalin",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 20000000,
+"women": 4,
+"territory": 22400000
+},
+{
+"name": "Irene di Atene",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 859951,
+"women": 79,
+"territory": 2912651
+},
+{
+"name": "Isabella I di Castiglia",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 107905,
+"women": 22,
+"territory": 543705
+},
+{
+"name": "Isabella II di Spagna",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 15563,
+"women": 20,
+"territory": 203896
+},
+{
+"name": "Isacco I Comneno",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 180042,
+"women": 25,
+"territory": 1517104
+},
+{
+"name": "Isacco II Angelo",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 505164,
+"women": 180,
+"territory": 976019
+},
+{
+"name": "Islam Karimov",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 4269808,
+"women": 1,
+"territory": 134407
+},
+{
+"name": "Ismail I",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 200000,
+"women": 50,
+"territory": 2800000
+},
+{
+"name": "Isoroku Yamamoto",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 88186,
+"women": 5,
+"territory": 34
+},
+{
+"name": "Ivan I Asen",
+"era": "Impero bulgaro",
+"emoji": "🦁",
+"kills": 136460,
+"women": 8,
+"territory": 217305
+},
+{
+"name": "Ivan II Asen",
+"era": "Impero bulgaro",
+"emoji": "🦁",
+"kills": 228637,
+"women": 9,
+"territory": 108409
+},
+{
+"name": "Ivan III Asen",
+"era": "Impero bulgaro",
+"emoji": "🦁",
+"kills": 326053,
+"women": 15,
+"territory": 352676
+},
+{
+"name": "Ivan III di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 100804,
+"women": 20,
+"territory": 304976
+},
+{
+"name": "Ivan Konev",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 123153,
+"women": 2,
+"territory": 4606
+},
+{
+"name": "Ivan il Terribile",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 500000,
+"women": 8,
+"territory": 5400000
+},
+{
+"name": "Jacques Cartier",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 170153,
+"women": 7,
+"territory": 521386
+},
+{
+"name": "Jahangir",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 150590,
+"women": 61,
+"territory": 2470167
+},
+{
+"name": "James Cook",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 12575,
+"women": 3,
+"territory": 332342
+},
+{
+"name": "Jan Zizka",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 94793,
+"women": 5,
+"territory": 272169
+},
+{
+"name": "Jaroslav il Saggio",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 256409,
+"women": 3,
+"territory": 573387
+},
+{
+"name": "Jayavarman I Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 128944,
+"women": 4,
+"territory": 189816
+},
+{
+"name": "Jayavarman II Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 228438,
+"women": 4,
+"territory": 196636
+},
+{
+"name": "Jayavarman III Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 16903,
+"women": 29,
+"territory": 2107871
+},
+{
+"name": "Jayavarman IV Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 233393,
+"women": 29,
+"territory": 1369737
+},
+{
+"name": "Jayavarman V Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 40978,
+"women": 12,
+"territory": 726085
+},
+{
+"name": "Jayavarman VI Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 51269,
+"women": 10,
+"territory": 1586847
+},
+{
+"name": "Jayavarman VII Khmer",
+"era": "Impero Khmer",
+"emoji": "🛕",
+"kills": 25121,
+"women": 10,
+"territory": 1518026
+},
+{
+"name": "Jean Bart",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 364569,
+"women": 12,
+"territory": 428968
+},
+{
+"name": "Jean-Bedel Bokassa",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 14913324,
+"women": 1,
+"territory": 428888
+},
+{
+"name": "Jean-Jacques Dessalines",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 511734,
+"women": 6,
+"territory": 257686
+},
+{
+"name": "John Pershing",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 490138,
+"women": 8,
+"territory": 274
+},
+{
+"name": "Jose Maria Morelos",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 745858,
+"women": 2,
+"territory": 5378
+},
+{
+"name": "Jose de San Martin",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 85141,
+"women": 5,
+"territory": 442
+},
+{
+"name": "Josip Broz Tito",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 9169632,
+"women": 25,
+"territory": 2025430
+},
+{
+"name": "Juan Ponce de Leon",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 212031,
+"women": 4,
+"territory": 1049460
+},
+{
+"name": "Kangxi",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 1490658,
+"women": 162,
+"territory": 3192786
+},
+{
+"name": "Kanhoji Angre",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 152713,
+"women": 2,
+"territory": 314544
+},
+{
+"name": "Kanishka",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 189165,
+"women": 259,
+"territory": 3799821
+},
+{
+"name": "Karim Khan Zand",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 135971,
+"women": 19,
+"territory": 1829331
+},
+{
+"name": "Karl Donitz",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 170950,
+"women": 9,
+"territory": 9
+},
+{
+"name": "Khalid ibn al-Walid",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 183906,
+"women": 10,
+"territory": 1159399
+},
+{
+"name": "Kim II Jong-un",
+"era": "Leader del XX secolo",
+"emoji": "💀",
+"kills": 6441106,
+"women": 8,
+"territory": 159510
+},
+{
+"name": "Kim III Jong-un",
+"era": "Leader del XX secolo",
+"emoji": "💀",
+"kills": 1400812,
+"women": 2,
+"territory": 1279977
+},
+{
+"name": "Kim Il-sung",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 1600000,
+"women": 3,
+"territory": 120000
+},
+{
+"name": "Kim Jong-il",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 4291638,
+"women": 2,
+"territory": 3929534
+},
+{
+"name": "Klaus Stortebeker",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 244978,
+"women": 58,
+"territory": 292185
+},
+{
+"name": "Kliment Vorosilov",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 121971,
+"women": 7,
+"territory": 1563
+},
+{
+"name": "Konstantin Rokossovskij",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 340109,
+"women": 12,
+"territory": 3
+},
+{
+"name": "Krishnadevaraya",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 1144343,
+"women": 34,
+"territory": 2326607
+},
+{
+"name": "Kublai Khan",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 5000000,
+"women": 7000,
+"territory": 14000000
+},
+{
+"name": "Kulothunga I Chola",
+"era": "Dinastia Chola",
+"emoji": "🕉️",
+"kills": 23588,
+"women": 4,
+"territory": 131498
+},
+{
+"name": "Kulothunga II Chola",
+"era": "Dinastia Chola",
+"emoji": "🕉️",
+"kills": 159014,
+"women": 19,
+"territory": 619355
+},
+{
+"name": "Kulothunga III Chola",
+"era": "Dinastia Chola",
+"emoji": "🕉️",
+"kills": 260212,
+"women": 3,
+"territory": 344433
+},
+{
+"name": "Kusunoki Masashige",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 1497082,
+"women": 2,
+"territory": 67186
+},
+{
+"name": "Kwame Nkrumah",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 692814,
+"women": 9,
+"territory": 135840
+},
+{
+"name": "Ladislao I d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 165138,
+"women": 6,
+"territory": 116456
+},
+{
+"name": "Ladislao I di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 26505,
+"women": 10,
+"territory": 2396104
+},
+{
+"name": "Ladislao II d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 202611,
+"women": 5,
+"territory": 94145
+},
+{
+"name": "Ladislao II di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 16243,
+"women": 27,
+"territory": 230921
+},
+{
+"name": "Ladislao III d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 132889,
+"women": 13,
+"territory": 1920333
+},
+{
+"name": "Ladislao III di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 36245,
+"women": 3,
+"territory": 2043063
+},
+{
+"name": "Ladislao IV d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 52052,
+"women": 23,
+"territory": 350674
+},
+{
+"name": "Ladislao IV di Polonia",
+"era": "Regno di Polonia",
+"emoji": "🦬",
+"kills": 19516,
+"women": 9,
+"territory": 567252
+},
+{
+"name": "Ladislao V d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 73876,
+"women": 8,
+"territory": 85413
+},
+{
+"name": "Ladislao di Napoli",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 375772,
+"women": 3,
+"territory": 505717
+},
+{
+"name": "Lajos Kossuth",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 33521,
+"women": 2,
+"territory": 4920
+},
+{
+"name": "Laurent Kabila",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 4146801,
+"women": 3,
+"territory": 253372
+},
+{
+"name": "Lenin",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 5000000,
+"women": 3,
+"territory": 22400000
+},
+{
+"name": "Leone III",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 132653,
+"women": 380,
+"territory": 4752150
+},
+{
+"name": "Leone VI",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 210795,
+"women": 355,
+"territory": 2805243
+},
+{
+"name": "Leonida I",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 50000,
+"women": 3,
+"territory": 0
+},
+{
+"name": "Leopoldo I d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 81360,
+"women": 24,
+"territory": 130766
+},
+{
+"name": "Leopoldo II d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 16461,
+"women": 8,
+"territory": 539589
+},
+{
+"name": "Leopoldo II del Belgio",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 10000000,
+"women": 3,
+"territory": 2345000
+},
+{
+"name": "Leopoldo III del Belgio",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 81864,
+"women": 31,
+"territory": 3319606
+},
+{
+"name": "Licinio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 103544,
+"women": 102,
+"territory": 3364697
+},
+{
+"name": "Lin Biao",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 197594,
+"women": 4,
+"territory": 5
+},
+{
+"name": "Lisandro",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 410401,
+"women": 1,
+"territory": 4373
+},
+{
+"name": "Liu Bei",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 224731,
+"women": 185,
+"territory": 2956189
+},
+{
+"name": "Lobengula",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 36284,
+"women": 12,
+"territory": 1963542
+},
+{
+"name": "Lorenzo de' Medici",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 33030,
+"women": 23,
+"territory": 1640793
+},
+{
+"name": "Louis-Nicolas Davout",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 187224,
+"women": 7,
+"territory": 551
+},
+{
+"name": "Lucio Vero",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 571586,
+"women": 71,
+"territory": 3329532
+},
+{
+"name": "Ludovico I di Baviera",
+"era": "Regno di Baviera",
+"emoji": "🍺",
+"kills": 29559,
+"women": 17,
+"territory": 2109620
+},
+{
+"name": "Ludovico II di Baviera",
+"era": "Regno di Baviera",
+"emoji": "🍺",
+"kills": 115679,
+"women": 14,
+"territory": 115896
+},
+{
+"name": "Ludovico III di Baviera",
+"era": "Regno di Baviera",
+"emoji": "🍺",
+"kills": 57435,
+"women": 3,
+"territory": 182370
+},
+{
+"name": "Ludovico Sforza",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 291616,
+"women": 8,
+"territory": 1041712
+},
+{
+"name": "Luigi Filippo I",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 229351,
+"women": 3,
+"territory": 573571
+},
+{
+"name": "Luigi II d'Ungheria",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 160172,
+"women": 10,
+"territory": 82062
+},
+{
+"name": "Luigi IX di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 96091,
+"women": 11,
+"territory": 1279116
+},
+{
+"name": "Luigi VI di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 25064,
+"women": 4,
+"territory": 512291
+},
+{
+"name": "Luigi VII di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 138487,
+"women": 15,
+"territory": 132048
+},
+{
+"name": "Luigi VIII",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 20055,
+"women": 16,
+"territory": 198401
+},
+{
+"name": "Luigi X",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 20358,
+"women": 4,
+"territory": 1152506
+},
+{
+"name": "Luigi XI",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 89063,
+"women": 11,
+"territory": 137644
+},
+{
+"name": "Luigi XII",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 37318,
+"women": 9,
+"territory": 81574
+},
+{
+"name": "Luigi XIII",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 104854,
+"women": 5,
+"territory": 194708
+},
+{
+"name": "Luigi XIV",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 1500000,
+"women": 20,
+"territory": 1000000
+},
+{
+"name": "Luigi XV",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 28021,
+"women": 5,
+"territory": 1601467
+},
+{
+"name": "Luigi XVI",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 101153,
+"women": 20,
+"territory": 172218
+},
+{
+"name": "Luigi XVIII",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 52511,
+"women": 3,
+"territory": 2391927
+},
+{
+"name": "Macrino",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 89833,
+"women": 116,
+"territory": 2168091
+},
+{
+"name": "Maeda Toshiie",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 1369951,
+"women": 16,
+"territory": 175197
+},
+{
+"name": "Mahmud I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 505823,
+"women": 60,
+"territory": 940927
+},
+{
+"name": "Mahmud II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 828973,
+"women": 420,
+"territory": 924970
+},
+{
+"name": "Manfredi di Sicilia",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 17414,
+"women": 24,
+"territory": 695688
+},
+{
+"name": "Mannerheim",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 82016,
+"women": 3,
+"territory": 64364
+},
+{
+"name": "Mansa Musa",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 50000,
+"women": 1000,
+"territory": 1300000
+},
+{
+"name": "Manuele I Comneno",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 863758,
+"women": 82,
+"territory": 3107646
+},
+{
+"name": "Manuele I del Portogallo",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 34802,
+"women": 22,
+"territory": 404154
+},
+{
+"name": "Manuele II Paleologo",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 283436,
+"women": 28,
+"territory": 5000611
+},
+{
+"name": "Mao Zedong",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 40000000,
+"women": 50,
+"territory": 9600000
+},
+{
+"name": "Maometto II",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 300000,
+"women": 200,
+"territory": 2200000
+},
+{
+"name": "Marcello",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 143559,
+"women": 3,
+"territory": 173267
+},
+{
+"name": "Marco Antonio",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 200000,
+"women": 4,
+"territory": 0
+},
+{
+"name": "Marco Aurelio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 200000,
+"women": 1,
+"territory": 5000000
+},
+{
+"name": "Maria I d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 40024,
+"women": 21,
+"territory": 93832
+},
+{
+"name": "Marlborough",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 355213,
+"women": 22,
+"territory": 15039
+},
+{
+"name": "Massimiano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 165443,
+"women": 169,
+"territory": 2222608
+},
+{
+"name": "Massimiliano I d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 261081,
+"women": 3,
+"territory": 287118
+},
+{
+"name": "Massimiliano I di Baviera",
+"era": "Regno di Baviera",
+"emoji": "🍺",
+"kills": 50922,
+"women": 10,
+"territory": 92552
+},
+{
+"name": "Massimiliano II d'Asburgo",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 21677,
+"women": 5,
+"territory": 1254858
+},
+{
+"name": "Massimiliano II di Baviera",
+"era": "Regno di Baviera",
+"emoji": "🍺",
+"kills": 214732,
+"women": 5,
+"territory": 144020
+},
+{
+"name": "Massimino il Trace",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 336741,
+"women": 337,
+"territory": 838386
+},
+{
+"name": "Matthias Corvino",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 344497,
+"women": 14,
+"territory": 271919
+},
+{
+"name": "Maurizio di Sassonia",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 950016,
+"women": 31,
+"territory": 91865
+},
+{
+"name": "Mehmed I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 436419,
+"women": 155,
+"territory": 2381597
+},
+{
+"name": "Mehmed III",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 254661,
+"women": 57,
+"territory": 1471848
+},
+{
+"name": "Mehmed IV",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 337542,
+"women": 117,
+"territory": 1149917
+},
+{
+"name": "Mehmed V",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 1400688,
+"women": 240,
+"territory": 2567868
+},
+{
+"name": "Mehmed VI",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 359011,
+"women": 70,
+"territory": 3698019
+},
+{
+"name": "Meiji",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 172731,
+"women": 69,
+"territory": 1395289
+},
+{
+"name": "Menelik II",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 100000,
+"women": 5,
+"territory": 1100000
+},
+{
+"name": "Mengistu Haile Mariam",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 918301,
+"women": 21,
+"territory": 197009
+},
+{
+"name": "Michel Ney",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 59478,
+"women": 10,
+"territory": 6662
+},
+{
+"name": "Michele IV",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 84989,
+"women": 354,
+"territory": 1032967
+},
+{
+"name": "Michele VIII Paleologo",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 692471,
+"women": 373,
+"territory": 908947
+},
+{
+"name": "Michele di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 41646,
+"women": 21,
+"territory": 2477033
+},
+{
+"name": "Michele il Bravo",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 143910,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Miguel Hidalgo",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 112444,
+"women": 3,
+"territory": 16847
+},
+{
+"name": "Mikhail Kutuzov",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 106909,
+"women": 8,
+"territory": 38842
+},
+{
+"name": "Miklos Horthy",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 161578,
+"women": 3,
+"territory": 12
+},
+{
+"name": "Milan I di Serbia",
+"era": "Regno di Serbia",
+"emoji": "🦅",
+"kills": 82070,
+"women": 6,
+"territory": 444850
+},
+{
+"name": "Milziade",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 96437,
+"women": 3,
+"territory": 7365
+},
+{
+"name": "Minamoto no Yoritomo",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 271137,
+"women": 26,
+"territory": 242044
+},
+{
+"name": "Minamoto no Yoshitsune",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 2465052,
+"women": 5,
+"territory": 30147
+},
+{
+"name": "Mitridate VI",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 300000,
+"women": 20,
+"territory": 500000
+},
+{
+"name": "Mobutu Sese Seko",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 532259,
+"women": 2,
+"territory": 310120
+},
+{
+"name": "Mohammed Zahir Shah",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 356475,
+"women": 146,
+"territory": 1958042
+},
+{
+"name": "Mongke Khan",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 1282002,
+"women": 230,
+"territory": 2231032
+},
+{
+"name": "Montezuma I azteco",
+"era": "Impero azteco",
+"emoji": "🌵",
+"kills": 22799,
+"women": 8,
+"territory": 2409390
+},
+{
+"name": "Montezuma II azteco",
+"era": "Impero azteco",
+"emoji": "🌵",
+"kills": 244724,
+"women": 6,
+"territory": 368343
+},
+{
+"name": "Mori Motonari",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 343055,
+"women": 7,
+"territory": 10167
+},
+{
+"name": "Moshe Dayan",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 304462,
+"women": 3,
+"territory": 2221
+},
+{
+"name": "Moshoeshoe I",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 16170,
+"women": 18,
+"territory": 1981933
+},
+{
+"name": "Mstislav I di Kiev",
+"era": "Rus' di Kiev",
+"emoji": "🐻",
+"kills": 52038,
+"women": 7,
+"territory": 322067
+},
+{
+"name": "Mstislav II di Kiev",
+"era": "Rus' di Kiev",
+"emoji": "🐻",
+"kills": 144730,
+"women": 4,
+"territory": 186975
+},
+{
+"name": "Mu'awiya I",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 202433,
+"women": 7,
+"territory": 1055279
+},
+{
+"name": "Muammar Gheddafi",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 100000,
+"women": 5,
+"territory": 1760000
+},
+{
+"name": "Muhammad I bin Tughluq",
+"era": "Sultanato di Delhi",
+"emoji": "🌙",
+"kills": 238533,
+"women": 344,
+"territory": 1435669
+},
+{
+"name": "Murad I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 228717,
+"women": 234,
+"territory": 2165315
+},
+{
+"name": "Murad II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 762440,
+"women": 187,
+"territory": 1571573
+},
+{
+"name": "Murad III",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 410778,
+"women": 198,
+"territory": 1495320
+},
+{
+"name": "Murad IV",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 827290,
+"women": 259,
+"territory": 1065202
+},
+{
+"name": "Murad V",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 498533,
+"women": 144,
+"territory": 1460193
+},
+{
+"name": "Mustafa I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 221002,
+"women": 399,
+"territory": 3339958
+},
+{
+"name": "Mustafa II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 606251,
+"women": 107,
+"territory": 909259
+},
+{
+"name": "Mustafa III",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 233650,
+"women": 274,
+"territory": 914718
+},
+{
+"name": "Mustafa IV",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 779260,
+"women": 256,
+"territory": 1489164
+},
+{
+"name": "Mutota",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 181844,
+"women": 6,
+"territory": 91500
+},
+{
+"name": "Nabucodonosor II",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 200000,
+"women": 100,
+"territory": 500000
+},
+{
+"name": "Nader Shah",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 1000000,
+"women": 100,
+"territory": 4500000
+},
+{
+"name": "Napoleone Bonaparte",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 5000000,
+"women": 40,
+"territory": 2100000
+},
+{
+"name": "Napoleone III",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 500000,
+"women": 12,
+"territory": 500000
+},
+{
+"name": "Narsete",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 87098,
+"women": 3,
+"territory": 292
+},
+{
+"name": "Naser al-Din Shah",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 58525,
+"women": 11,
+"territory": 147330
+},
+{
+"name": "Nathanael Greene",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 334648,
+"women": 3,
+"territory": 78
+},
+{
+"name": "Ne Win",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 530987,
+"women": 7,
+"territory": 234780
+},
+{
+"name": "Nerone",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 50000,
+"women": 6,
+"territory": 5000000
+},
+{
+"name": "Nerva",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 861684,
+"women": 85,
+"territory": 1645407
+},
+{
+"name": "Niceforo I",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 472683,
+"women": 70,
+"territory": 2375220
+},
+{
+"name": "Niceforo II Foca",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 227172,
+"women": 86,
+"territory": 2281933
+},
+{
+"name": "Nicola I di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 24680,
+"women": 29,
+"territory": 237653
+},
+{
+"name": "Nicola II di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 66256,
+"women": 22,
+"territory": 309902
+},
+{
+"name": "Nicolae Ceausescu",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 8365991,
+"women": 1,
+"territory": 434594
+},
+{
+"name": "Norman Schwarzkopf",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 119376,
+"women": 3,
+"territory": 1
+},
+{
+"name": "Norodom Sihanouk",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 546666,
+"women": 139,
+"territory": 2939570
+},
+{
+"name": "Numeriano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 159807,
+"women": 53,
+"territory": 1964297
+},
+{
+"name": "Nurhaci",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 309668,
+"women": 42,
+"territory": 3519874
+},
+{
+"name": "Nursultan Nazarbayev",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 724174,
+"women": 2,
+"territory": 200575
+},
+{
+"name": "Oda Nobunaga",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 200000,
+"women": 10,
+"territory": 250000
+},
+{
+"name": "Ogedei Khan",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 1537313,
+"women": 141,
+"territory": 4164377
+},
+{
+"name": "Olaf I di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 175459,
+"women": 28,
+"territory": 743869
+},
+{
+"name": "Olaf II di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 55134,
+"women": 7,
+"territory": 119100
+},
+{
+"name": "Olaf III di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 15612,
+"women": 4,
+"territory": 948964
+},
+{
+"name": "Olaf IV di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 30227,
+"women": 11,
+"territory": 354196
+},
+{
+"name": "Olaf V di Norvegia",
+"era": "Regno di Norvegia",
+"emoji": "❄️",
+"kills": 77444,
+"women": 24,
+"territory": 1079047
+},
+{
+"name": "Omar Bradley",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 273627,
+"women": 1,
+"territory": 685
+},
+{
+"name": "Omar al-Bashir",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 2990874,
+"women": 1,
+"territory": 3392551
+},
+{
+"name": "Onorio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 250775,
+"women": 34,
+"territory": 1785440
+},
+{
+"name": "Orhan",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 486613,
+"women": 134,
+"territory": 4111764
+},
+{
+"name": "Osei Tutu",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 26134,
+"women": 5,
+"territory": 309989
+},
+{
+"name": "Osman I",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 50000,
+"women": 100,
+"territory": 16000
+},
+{
+"name": "Osman II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 202205,
+"women": 309,
+"territory": 1246653
+},
+{
+"name": "Osman III",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 239058,
+"women": 335,
+"territory": 921151
+},
+{
+"name": "Otone",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 552068,
+"women": 40,
+"territory": 673220
+},
+{
+"name": "Ottocaro I di Boemia",
+"era": "Regno di Boemia",
+"emoji": "🦁",
+"kills": 192407,
+"women": 11,
+"territory": 400968
+},
+{
+"name": "Ottocaro II di Boemia",
+"era": "Regno di Boemia",
+"emoji": "🦁",
+"kills": 164526,
+"women": 3,
+"territory": 698087
+},
+{
+"name": "Ottone I il Grande",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 381154,
+"women": 9,
+"territory": 738458
+},
+{
+"name": "Ottone II il Grande",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 85294,
+"women": 16,
+"territory": 457272
+},
+{
+"name": "Ottone III il Grande",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 280077,
+"women": 2,
+"territory": 89377
+},
+{
+"name": "Ottone IV di Brunswick",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 66650,
+"women": 6,
+"territory": 320967
+},
+{
+"name": "Ottone IV il Grande",
+"era": "Sacro Romano Impero",
+"emoji": "🦅",
+"kills": 40078,
+"women": 19,
+"territory": 403398
+},
+{
+"name": "Pachacutec I inca",
+"era": "Impero inca",
+"emoji": "🏔️",
+"kills": 25290,
+"women": 8,
+"territory": 414088
+},
+{
+"name": "Pancho Villa",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 30322,
+"women": 3,
+"territory": 360
+},
+{
+"name": "Paolo I di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 107341,
+"women": 4,
+"territory": 472629
+},
+{
+"name": "Paul von Hindenburg",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 97982,
+"women": 1,
+"territory": 11081
+},
+{
+"name": "Pausania",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 53962,
+"women": 3,
+"territory": 1
+},
+{
+"name": "Pedro de Alvarado",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 5626,
+"women": 4,
+"territory": 88761
+},
+{
+"name": "Peng Dehuai",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 406122,
+"women": 1,
+"territory": 271742
+},
+{
+"name": "Pertinace",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 331264,
+"women": 200,
+"territory": 2370276
+},
+{
+"name": "Pietro I d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 139396,
+"women": 6,
+"territory": 779289
+},
+{
+"name": "Pietro I del Portogallo",
+"era": "Re di Spagna / Iberia",
+"emoji": "🏵️",
+"kills": 345741,
+"women": 15,
+"territory": 2034521
+},
+{
+"name": "Pietro II d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 241937,
+"women": 6,
+"territory": 1301165
+},
+{
+"name": "Pietro III d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 116237,
+"women": 4,
+"territory": 2078559
+},
+{
+"name": "Pietro IV d'Aragona",
+"era": "Regno d'Aragona",
+"emoji": "🏵️",
+"kills": 15365,
+"women": 10,
+"territory": 677751
+},
+{
+"name": "Pietro il Grande",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 400000,
+"women": 3,
+"territory": 15800000
+},
+{
+"name": "Pirro",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 150000,
+"women": 5,
+"territory": 100000
+},
+{
+"name": "Pol Pot",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 2000000,
+"women": 2,
+"territory": 181000
+},
+{
+"name": "Pompeo",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 500000,
+"women": 5,
+"territory": 0
+},
+{
+"name": "Prithviraj Chauhan",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 50000,
+"women": 13,
+"territory": 500000
+},
+{
+"name": "Probo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 1338225,
+"women": 39,
+"territory": 785629
+},
+{
+"name": "Psammetico I d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 236135,
+"women": 12,
+"territory": 901576
+},
+{
+"name": "Psammetico II d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 18840,
+"women": 8,
+"territory": 1415711
+},
+{
+"name": "Psammetico III d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 19115,
+"women": 22,
+"territory": 80490
+},
+{
+"name": "Pulakesin II",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 172090,
+"women": 384,
+"territory": 1267518
+},
+{
+"name": "Pupieno",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 153630,
+"women": 119,
+"territory": 1164494
+},
+{
+"name": "Puyi",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 690415,
+"women": 91,
+"territory": 4916217
+},
+{
+"name": "Qianlong",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 793510,
+"women": 206,
+"territory": 2719578
+},
+{
+"name": "Qin Shi Huang",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 1000000,
+"women": 3000,
+"territory": 2300000
+},
+{
+"name": "Quintillo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 201911,
+"women": 46,
+"territory": 692302
+},
+{
+"name": "Qutuz",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 162403,
+"women": 5,
+"territory": 121616
+},
+{
+"name": "Rafael Trujillo",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 6800573,
+"women": 11,
+"territory": 605834
+},
+{
+"name": "Rajaraja I",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 115871,
+"women": 48,
+"territory": 3131505
+},
+{
+"name": "Rajendra Chola I",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 86356,
+"women": 37,
+"territory": 698160
+},
+{
+"name": "Rama I del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 33341,
+"women": 8,
+"territory": 529244
+},
+{
+"name": "Rama II del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 48922,
+"women": 13,
+"territory": 468118
+},
+{
+"name": "Rama III del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 79968,
+"women": 24,
+"territory": 556265
+},
+{
+"name": "Rama IV del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 337839,
+"women": 2,
+"territory": 817518
+},
+{
+"name": "Rama IX del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 66635,
+"women": 21,
+"territory": 1098724
+},
+{
+"name": "Rama V",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 1032716,
+"women": 219,
+"territory": 2330194
+},
+{
+"name": "Rama V del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 369905,
+"women": 13,
+"territory": 206316
+},
+{
+"name": "Rama VI del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 183897,
+"women": 18,
+"territory": 2421368
+},
+{
+"name": "Rama VII del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 88938,
+"women": 7,
+"territory": 540955
+},
+{
+"name": "Rama VIII del Siam",
+"era": "Sovrani del Siam",
+"emoji": "🐘",
+"kills": 250768,
+"women": 15,
+"territory": 1423140
+},
+{
+"name": "Ramanantsoa",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 112603,
+"women": 4,
+"territory": 333786
+},
+{
+"name": "Ramses II",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 100000,
+"women": 100,
+"territory": 1000000
+},
+{
+"name": "Ramses III d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 34850,
+"women": 29,
+"territory": 702253
+},
+{
+"name": "Ramses IV d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 36895,
+"women": 4,
+"territory": 712731
+},
+{
+"name": "Ramses IX d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 234513,
+"women": 5,
+"territory": 449775
+},
+{
+"name": "Ramses V d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 240778,
+"women": 19,
+"territory": 2297509
+},
+{
+"name": "Ramses VI d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 107678,
+"women": 2,
+"territory": 1566256
+},
+{
+"name": "Ramses VII d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 16649,
+"women": 12,
+"territory": 208100
+},
+{
+"name": "Ramses VIII d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 76476,
+"women": 3,
+"territory": 99256
+},
+{
+"name": "Ramses X d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 291910,
+"women": 3,
+"territory": 1656716
+},
+{
+"name": "Ramses XI d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 42360,
+"women": 6,
+"territory": 240105
+},
+{
+"name": "Rana Pratap",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 97206,
+"women": 257,
+"territory": 889709
+},
+{
+"name": "Ranavalona I",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 116484,
+"women": 3,
+"territory": 101527
+},
+{
+"name": "Ranjit Singh",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 100000,
+"women": 46,
+"territory": 520000
+},
+{
+"name": "Re Gwanggaeto I il Grande",
+"era": "Regno di Goguryeo",
+"emoji": "🏯",
+"kills": 55254,
+"women": 3,
+"territory": 801806
+},
+{
+"name": "Re Sejong I il Grande",
+"era": "Dinastia coreana Joseon",
+"emoji": "🏯",
+"kills": 53031,
+"women": 5,
+"territory": 1133292
+},
+{
+"name": "Renato d'Angio",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 344480,
+"women": 10,
+"territory": 326910
+},
+{
+"name": "Reza Pahlavi",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 28023,
+"women": 7,
+"territory": 1629126
+},
+{
+"name": "Riccardo Cuor di Leone",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 100000,
+"women": 2,
+"territory": 250000
+},
+{
+"name": "Riccardo II",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 67860,
+"women": 7,
+"territory": 1078452
+},
+{
+"name": "Riccardo III",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 30000,
+"women": 1,
+"territory": 150000
+},
+{
+"name": "Robert E. Lee",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 358482,
+"women": 2,
+"territory": 23604
+},
+{
+"name": "Robert Mugabe",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 2866114,
+"women": 16,
+"territory": 1245247
+},
+{
+"name": "Roberto I di Courtenay",
+"era": "Impero latino",
+"emoji": "✝️",
+"kills": 148299,
+"women": 17,
+"territory": 113059
+},
+{
+"name": "Roberto I di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 30425,
+"women": 9,
+"territory": 1673890
+},
+{
+"name": "Roberto II di Francia",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 28189,
+"women": 2,
+"territory": 164166
+},
+{
+"name": "Roberto II di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 199948,
+"women": 5,
+"territory": 407992
+},
+{
+"name": "Roberto III di Scozia",
+"era": "Regno di Scozia",
+"emoji": "🏴",
+"kills": 52382,
+"women": 9,
+"territory": 139022
+},
+{
+"name": "Roberto d'Angio",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 45662,
+"women": 4,
+"territory": 755258
+},
+{
+"name": "Rodolfo I d'Asburgo",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 27395,
+"women": 18,
+"territory": 85831
+},
+{
+"name": "Romano I",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 195215,
+"women": 382,
+"territory": 1061531
+},
+{
+"name": "Romano III",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 103457,
+"women": 37,
+"territory": 837097
+},
+{
+"name": "Romano IV",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 695779,
+"women": 37,
+"territory": 5539081
+},
+{
+"name": "Ruggero I di Sicilia",
+"era": "Regno di Sicilia",
+"emoji": "🌋",
+"kills": 344199,
+"women": 18,
+"territory": 503424
+},
+{
+"name": "Ruggero II di Sicilia",
+"era": "Regno di Sicilia",
+"emoji": "🌋",
+"kills": 44843,
+"women": 21,
+"territory": 195055
+},
+{
+"name": "Ruhollah Khomeini",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 1393981,
+"women": 23,
+"territory": 871097
+},
+{
+"name": "Rurik",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 159465,
+"women": 22,
+"territory": 84409
+},
+{
+"name": "Saddam Hussein",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 1000000,
+"women": 4,
+"territory": 438000
+},
+{
+"name": "Saladino",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 300000,
+"women": 16,
+"territory": 2000000
+},
+{
+"name": "Sam Houston",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 48593,
+"women": 8,
+"territory": 51
+},
+{
+"name": "Samori Ture",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 100000,
+"women": 50,
+"territory": 300000
+},
+{
+"name": "Samudragupta",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 409729,
+"women": 114,
+"territory": 4185454
+},
+{
+"name": "Sanada Yukimura",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 1124592,
+"women": 14,
+"territory": 288296
+},
+{
+"name": "Sancho I di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 40006,
+"women": 9,
+"territory": 1313816
+},
+{
+"name": "Sancho II di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 39629,
+"women": 3,
+"territory": 1602460
+},
+{
+"name": "Sancho III di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 35164,
+"women": 21,
+"territory": 690006
+},
+{
+"name": "Sancho IV di Castiglia",
+"era": "Regno di Castiglia",
+"emoji": "🏵️",
+"kills": 59253,
+"women": 26,
+"territory": 455335
+},
+{
+"name": "Sani Abacha",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 570428,
+"women": 2,
+"territory": 419158
+},
+{
+"name": "Saparmurat Niyazov",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 13638360,
+"women": 4,
+"territory": 3964847
+},
+{
+"name": "Sapore I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 200000,
+"women": 5,
+"territory": 3500000
+},
+{
+"name": "Sargon di Akkad",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 100000,
+"women": 50,
+"territory": 800000
+},
+{
+"name": "Scipione l'Africano",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 250000,
+"women": 3,
+"territory": 150000
+},
+{
+"name": "Sebastiano Venier",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 327801,
+"women": 3,
+"territory": 127273
+},
+{
+"name": "Seleuco I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 300000,
+"women": 3,
+"territory": 4000000
+},
+{
+"name": "Seleuco II il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 109121,
+"women": 285,
+"territory": 2823525
+},
+{
+"name": "Seleuco III il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 110153,
+"women": 144,
+"territory": 1276646
+},
+{
+"name": "Seleuco IV il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 82610,
+"women": 38,
+"territory": 1376030
+},
+{
+"name": "Seleuco V il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 1222126,
+"women": 263,
+"territory": 5442549
+},
+{
+"name": "Seleuco VI il Seleucide",
+"era": "Dinastia Seleucide",
+"emoji": "🏺",
+"kills": 130514,
+"women": 364,
+"territory": 842456
+},
+{
+"name": "Selim I",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 400000,
+"women": 200,
+"territory": 1500000
+},
+{
+"name": "Selim II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 731958,
+"women": 80,
+"territory": 1005934
+},
+{
+"name": "Selim III",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 253953,
+"women": 446,
+"territory": 4122934
+},
+{
+"name": "Semyon Timosenko",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 77277,
+"women": 2,
+"territory": 44338
+},
+{
+"name": "Serse I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 500000,
+"women": 360,
+"territory": 5500000
+},
+{
+"name": "Settimio Severo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 440614,
+"women": 139,
+"territory": 3990839
+},
+{
+"name": "Shah Abbas I",
+"era": "Medioevo",
+"emoji": "🛡️",
+"kills": 300000,
+"women": 300,
+"territory": 2800000
+},
+{
+"name": "Shah Jahan",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 107874,
+"women": 120,
+"territory": 4327078
+},
+{
+"name": "Shaka Zulu",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 2000000,
+"women": 1200,
+"territory": 30000
+},
+{
+"name": "Shimazu Yoshihiro",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 278836,
+"women": 12,
+"territory": 346713
+},
+{
+"name": "Shivaji",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 100000,
+"women": 8,
+"territory": 100000
+},
+{
+"name": "Sigismondo di Lussemburgo",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 19542,
+"women": 3,
+"territory": 101759
+},
+{
+"name": "Silla",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 500000,
+"women": 5,
+"territory": 0
+},
+{
+"name": "Sima Yan",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 282450,
+"women": 88,
+"territory": 1377580
+},
+{
+"name": "Simeone I di Bulgaria",
+"era": "Regno di Bulgaria",
+"emoji": "🦁",
+"kills": 69320,
+"women": 27,
+"territory": 643034
+},
+{
+"name": "Simeone II di Bulgaria",
+"era": "Regno di Bulgaria",
+"emoji": "🦁",
+"kills": 395727,
+"women": 13,
+"territory": 467712
+},
+{
+"name": "Simon Bolivar",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 171916,
+"women": 3,
+"territory": 149
+},
+{
+"name": "Skanderbeg",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 2994708,
+"women": 7,
+"territory": 164453
+},
+{
+"name": "Slobodan Milosevic",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 557762,
+"women": 2,
+"territory": 3368912
+},
+{
+"name": "Solimano il Magnifico",
+"era": "Età moderna",
+"emoji": "🏰",
+"kills": 1000000,
+"women": 300,
+"territory": 4500000
+},
+{
+"name": "Sonni Ali",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 96944,
+"women": 20,
+"territory": 248849
+},
+{
+"name": "Spartaco",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 198733,
+"women": 2,
+"territory": 62192
+},
+{
+"name": "Stede Bonnet",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 455182,
+"women": 38,
+"territory": 68516
+},
+{
+"name": "Stefano I Nemanjic",
+"era": "Regno di Serbia",
+"emoji": "🦅",
+"kills": 62353,
+"women": 27,
+"territory": 467243
+},
+{
+"name": "Stefano I d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 371633,
+"women": 16,
+"territory": 180234
+},
+{
+"name": "Stefano II Nemanjic",
+"era": "Regno di Serbia",
+"emoji": "🦅",
+"kills": 47642,
+"women": 24,
+"territory": 1398771
+},
+{
+"name": "Stefano II d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 46600,
+"women": 9,
+"territory": 272523
+},
+{
+"name": "Stefano III Nemanjic",
+"era": "Regno di Serbia",
+"emoji": "🦅",
+"kills": 156538,
+"women": 7,
+"territory": 107690
+},
+{
+"name": "Stefano III d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 17345,
+"women": 15,
+"territory": 397065
+},
+{
+"name": "Stefano IV Nemanjic",
+"era": "Regno di Serbia",
+"emoji": "🦅",
+"kills": 153091,
+"women": 15,
+"territory": 2244452
+},
+{
+"name": "Stefano IV d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 19490,
+"women": 6,
+"territory": 113683
+},
+{
+"name": "Stefano V Nemanjic",
+"era": "Regno di Serbia",
+"emoji": "🦅",
+"kills": 149071,
+"women": 21,
+"territory": 223145
+},
+{
+"name": "Stefano V d'Ungheria",
+"era": "Regno d'Ungheria",
+"emoji": "🐎",
+"kills": 145841,
+"women": 9,
+"territory": 929086
+},
+{
+"name": "Stefano d'Inghilterra",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 21745,
+"women": 22,
+"territory": 87940
+},
+{
+"name": "Stefano il Grande",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 1609396,
+"women": 3,
+"territory": 158974
+},
+{
+"name": "Stilicone",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 311444,
+"women": 3,
+"territory": 98
+},
+{
+"name": "Stonewall Jackson",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 610741,
+"women": 5,
+"territory": 3
+},
+{
+"name": "Suharto",
+"era": "XX secolo",
+"emoji": "💀",
+"kills": 14716842,
+"women": 2,
+"territory": 333432
+},
+{
+"name": "Suleiman II",
+"era": "Sultani ottomani",
+"emoji": "🌙",
+"kills": 631308,
+"women": 155,
+"territory": 4196415
+},
+{
+"name": "Sun Quan",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 83060,
+"women": 272,
+"territory": 1437170
+},
+{
+"name": "Sundiata Keita",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 100000,
+"women": 100,
+"territory": 1000000
+},
+{
+"name": "Svjatoslav I di Kiev",
+"era": "Rus' di Kiev",
+"emoji": "🐻",
+"kills": 15068,
+"women": 21,
+"territory": 217146
+},
+{
+"name": "Svjatoslav II di Kiev",
+"era": "Rus' di Kiev",
+"emoji": "🐻",
+"kills": 266827,
+"women": 13,
+"territory": 108513
+},
+{
+"name": "Sweyn I Barbaforcuta",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 94021,
+"women": 21,
+"territory": 14286
+},
+{
+"name": "Sweyn II Barbaforcuta",
+"era": "Regni vichinghi",
+"emoji": "⚓",
+"kills": 337058,
+"women": 15,
+"territory": 45739
+},
+{
+"name": "Tacito",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 738572,
+"women": 55,
+"territory": 2987396
+},
+{
+"name": "Tadeusz Kosciuszko",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 302366,
+"women": 2,
+"territory": 199427
+},
+{
+"name": "Taira no Kiyomori",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 198150,
+"women": 5,
+"territory": 156867
+},
+{
+"name": "Taisho",
+"era": "Ultimi imperatori e monarchi",
+"emoji": "👑",
+"kills": 149047,
+"women": 33,
+"territory": 906612
+},
+{
+"name": "Takeda Shingen",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 100000,
+"women": 5,
+"territory": 50000
+},
+{
+"name": "Tamerlano",
+"era": "Antichità / Medioevo",
+"emoji": "🐎",
+"kills": 17000000,
+"women": 100,
+"territory": 4400000
+},
+{
+"name": "Tariq ibn Ziyad",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 27088,
+"women": 28,
+"territory": 171190
+},
+{
+"name": "Temistocle",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 244062,
+"women": 5,
+"territory": 857
+},
+{
+"name": "Teodora",
+"era": "Imperatori bizantini",
+"emoji": "☦️",
+"kills": 1350230,
+"women": 34,
+"territory": 1501952
+},
+{
+"name": "Teodosio I",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 155257,
+"women": 180,
+"territory": 2359269
+},
+{
+"name": "Teodosio II",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 956450,
+"women": 119,
+"territory": 3574592
+},
+{
+"name": "Tewodros II",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 58074,
+"women": 10,
+"territory": 606718
+},
+{
+"name": "Than Shwe",
+"era": "Conflitti moderni",
+"emoji": "💀",
+"kills": 453007,
+"women": 2,
+"territory": 131987
+},
+{
+"name": "Thutmose I d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 144361,
+"women": 4,
+"territory": 261599
+},
+{
+"name": "Thutmose II d'Egitto",
+"era": "Faraoni d'Egitto",
+"emoji": "𓂀",
+"kills": 85008,
+"women": 7,
+"territory": 1115952
+},
+{
+"name": "Thutmose III",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 100000,
+"women": 50,
+"territory": 1000000
+},
+{
+"name": "Tiberio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 127946,
+"women": 388,
+"territory": 3754155
+},
+{
+"name": "Tigrane I d'Armenia",
+"era": "Regno d'Armenia",
+"emoji": "🏔️",
+"kills": 280274,
+"women": 4,
+"territory": 1083943
+},
+{
+"name": "Tigrane II d'Armenia",
+"era": "Regno d'Armenia",
+"emoji": "🏔️",
+"kills": 28256,
+"women": 6,
+"territory": 468986
+},
+{
+"name": "Timur Lang",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 19823,
+"women": 9,
+"territory": 1720171
+},
+{
+"name": "Tipu Sultan",
+"era": "Sovrani dell'India",
+"emoji": "🕉️",
+"kills": 100000,
+"women": 600,
+"territory": 50000
+},
+{
+"name": "Tito",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 450877,
+"women": 108,
+"territory": 2534129
+},
+{
+"name": "Tokugawa Ieyasu",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 200000,
+"women": 20,
+"territory": 380000
+},
+{
+"name": "Tolomeo I",
+"era": "Antichità",
+"emoji": "⚔️",
+"kills": 200000,
+"women": 5,
+"territory": 1500000
+},
+{
+"name": "Tolomeo II d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 785158,
+"women": 238,
+"territory": 1065026
+},
+{
+"name": "Tolomeo III d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 759210,
+"women": 267,
+"territory": 841244
+},
+{
+"name": "Tolomeo IV d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 910083,
+"women": 61,
+"territory": 1700024
+},
+{
+"name": "Tolomeo IX d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 338825,
+"women": 92,
+"territory": 2094195
+},
+{
+"name": "Tolomeo V d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 680208,
+"women": 43,
+"territory": 1840410
+},
+{
+"name": "Tolomeo VI d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 88283,
+"women": 99,
+"territory": 3797939
+},
+{
+"name": "Tolomeo VII d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 87123,
+"women": 46,
+"territory": 4872129
+},
+{
+"name": "Tolomeo VIII d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 394540,
+"women": 125,
+"territory": 2339980
+},
+{
+"name": "Tolomeo X d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 932476,
+"women": 319,
+"territory": 929477
+},
+{
+"name": "Tolomeo XI d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 399192,
+"women": 32,
+"territory": 1271048
+},
+{
+"name": "Tolomeo XII d'Egitto",
+"era": "Dinastia Tolemaica",
+"emoji": "🏺",
+"kills": 439784,
+"women": 63,
+"territory": 604490
+},
+{
+"name": "Toussaint Louverture",
+"era": "Rivoluzioni e indipendenze",
+"emoji": "🎖️",
+"kills": 64650,
+"women": 3,
+"territory": 3
+},
+{
+"name": "Toyotomi Hideyoshi",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 300000,
+"women": 16,
+"territory": 380000
+},
+{
+"name": "Traiano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 1000000,
+"women": 2,
+"territory": 6500000
+},
+{
+"name": "Treboniano Gallo",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 245412,
+"women": 73,
+"territory": 2449920
+},
+{
+"name": "Turenne",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 2902829,
+"women": 5,
+"territory": 118765
+},
+{
+"name": "Uesugi Kenshin",
+"era": "Guerrieri del Giappone feudale",
+"emoji": "🎌",
+"kills": 138066,
+"women": 13,
+"territory": 19366
+},
+{
+"name": "Ugo Capeto",
+"era": "Re di Francia",
+"emoji": "⚜️",
+"kills": 183102,
+"women": 4,
+"territory": 1655208
+},
+{
+"name": "Ugo I di Lusignano",
+"era": "Regno di Cipro",
+"emoji": "✝️",
+"kills": 21186,
+"women": 22,
+"territory": 831364
+},
+{
+"name": "Ugo II di Lusignano",
+"era": "Regno di Cipro",
+"emoji": "✝️",
+"kills": 28958,
+"women": 10,
+"territory": 581147
+},
+{
+"name": "Ugo III di Lusignano",
+"era": "Regno di Cipro",
+"emoji": "✝️",
+"kills": 56117,
+"women": 10,
+"territory": 1097176
+},
+{
+"name": "Ugo IV di Lusignano",
+"era": "Regno di Cipro",
+"emoji": "✝️",
+"kills": 21817,
+"women": 29,
+"territory": 281198
+},
+{
+"name": "Ulysses S. Grant",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 87322,
+"women": 3,
+"territory": 35
+},
+{
+"name": "Umar",
+"era": "Sovrani persiani e mediorientali",
+"emoji": "🏺",
+"kills": 126584,
+"women": 2,
+"territory": 124771
+},
+{
+"name": "Umberto I d'Italia",
+"era": "Regno d'Italia",
+"emoji": "🇮🇹",
+"kills": 139001,
+"women": 14,
+"territory": 103254
+},
+{
+"name": "Umberto II d'Italia",
+"era": "Regno d'Italia",
+"emoji": "🇮🇹",
+"kills": 72086,
+"women": 11,
+"territory": 223028
+},
+{
+"name": "Valente",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 259533,
+"women": 174,
+"territory": 772352
+},
+{
+"name": "Valentiniano I",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 104991,
+"women": 62,
+"territory": 4661537
+},
+{
+"name": "Valentiniano II",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 254871,
+"women": 39,
+"territory": 1758692
+},
+{
+"name": "Valentiniano III",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 464541,
+"women": 69,
+"territory": 3637618
+},
+{
+"name": "Valeriano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 383466,
+"women": 56,
+"territory": 3636015
+},
+{
+"name": "Vasco Nunez de Balboa",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 37279,
+"women": 2,
+"territory": 551954
+},
+{
+"name": "Vasco da Gama",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 10000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Vasilij Cujkov",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 58845,
+"women": 2,
+"territory": 40
+},
+{
+"name": "Vasilij III di Russia",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 24461,
+"women": 6,
+"territory": 1207040
+},
+{
+"name": "Venceslao I di Boemia",
+"era": "Regno di Boemia",
+"emoji": "🦁",
+"kills": 58687,
+"women": 19,
+"territory": 163121
+},
+{
+"name": "Venceslao II di Boemia",
+"era": "Regno di Boemia",
+"emoji": "🦁",
+"kills": 166431,
+"women": 7,
+"territory": 1562529
+},
+{
+"name": "Venceslao III di Boemia",
+"era": "Regno di Boemia",
+"emoji": "🦁",
+"kills": 196239,
+"women": 9,
+"territory": 435213
+},
+{
+"name": "Venceslao IV di Boemia",
+"era": "Regno di Boemia",
+"emoji": "🦁",
+"kills": 361912,
+"women": 10,
+"territory": 458141
+},
+{
+"name": "Vercingetorige",
+"era": "Antichità classica",
+"emoji": "🏹",
+"kills": 40413,
+"women": 5,
+"territory": 149919
+},
+{
+"name": "Vespasiano",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 676951,
+"women": 37,
+"territory": 1151160
+},
+{
+"name": "Vitellio",
+"era": "Imperatori romani",
+"emoji": "🏛️",
+"kills": 554767,
+"women": 36,
+"territory": 1134206
+},
+{
+"name": "Vitoldo I di Lituania",
+"era": "Granducato di Lituania",
+"emoji": "🦬",
+"kills": 123044,
+"women": 4,
+"territory": 267928
+},
+{
+"name": "Vittoria del Regno Unito",
+"era": "Re d'Inghilterra",
+"emoji": "👑",
+"kills": 20000000,
+"women": 1,
+"territory": 30000000
+},
+{
+"name": "Vittorio Emanuele I d'Italia",
+"era": "Regno d'Italia",
+"emoji": "🇮🇹",
+"kills": 221688,
+"women": 27,
+"territory": 84770
+},
+{
+"name": "Vittorio Emanuele II d'Italia",
+"era": "Regno d'Italia",
+"emoji": "🇮🇹",
+"kills": 16002,
+"women": 5,
+"territory": 118162
+},
+{
+"name": "Vittorio Emanuele III d'Italia",
+"era": "Regno d'Italia",
+"emoji": "🇮🇹",
+"kills": 118221,
+"women": 25,
+"territory": 2084850
+},
+{
+"name": "Vlad l'Impalatore",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 100000,
+"women": 3,
+"territory": 50000
+},
+{
+"name": "Vladimiro il Grande",
+"era": "Zar e sovrani di Russia",
+"emoji": "🐻",
+"kills": 100000,
+"women": 800,
+"territory": 1300000
+},
+{
+"name": "Vladislao II di Boemia",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 105921,
+"women": 3,
+"territory": 723110
+},
+{
+"name": "Vo Nguyen Giap",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 794520,
+"women": 6,
+"territory": 4
+},
+{
+"name": "Wallenstein",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 619244,
+"women": 6,
+"territory": 14954
+},
+{
+"name": "Walter Raleigh",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 14894,
+"women": 2,
+"territory": 57329
+},
+{
+"name": "Walther Model",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 45070,
+"women": 7,
+"territory": 320
+},
+{
+"name": "Wang Mang",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 1166350,
+"women": 392,
+"territory": 3801598
+},
+{
+"name": "Wellington",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 100000,
+"women": 2,
+"territory": 0
+},
+{
+"name": "Wenceslao IV di Boemia",
+"era": "Altri sovrani europei",
+"emoji": "👑",
+"kills": 51961,
+"women": 6,
+"territory": 212301
+},
+{
+"name": "Wilhelm Keitel",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 388596,
+"women": 11,
+"territory": 10872
+},
+{
+"name": "Willem Barentsz",
+"era": "Esploratori e conquistadores",
+"emoji": "🧭",
+"kills": 200388,
+"women": 3,
+"territory": 825858
+},
+{
+"name": "William Kidd",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 82527,
+"women": 28,
+"territory": 172161
+},
+{
+"name": "William Sherman",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 33238,
+"women": 9,
+"territory": 8
+},
+{
+"name": "William Slim",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 274822,
+"women": 2,
+"territory": 73
+},
+{
+"name": "Winfield Scott",
+"era": "Guerre napoleoniche / mondiali",
+"emoji": "🎖️",
+"kills": 327081,
+"women": 2,
+"territory": 460
+},
+{
+"name": "Wu Zetian",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 927422,
+"women": 66,
+"territory": 693207
+},
+{
+"name": "Yitzhak Rabin",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 592395,
+"women": 1,
+"territory": 466
+},
+{
+"name": "Yohannes IV",
+"era": "Sovrani d'Africa",
+"emoji": "🦁",
+"kills": 72102,
+"women": 27,
+"territory": 563417
+},
+{
+"name": "Yongle",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 92851,
+"women": 24,
+"territory": 879529
+},
+{
+"name": "Yongzheng",
+"era": "Imperatori cinesi",
+"emoji": "🐉",
+"kills": 209781,
+"women": 30,
+"territory": 995570
+},
+{
+"name": "Yue Fei",
+"era": "Condottieri e signori della guerra",
+"emoji": "🗡️",
+"kills": 118689,
+"women": 46,
+"territory": 354259
+},
+{
+"name": "Zheng Yi Sao",
+"era": "Pirati e corsari",
+"emoji": "🏴‍☠️",
+"kills": 922952,
+"women": 52,
+"territory": 315827
+},
+{
+"name": "Zhu De",
+"era": "Comandanti del XX secolo",
+"emoji": "🎖️",
+"kills": 107428,
+"women": 3,
+"territory": 86
+}
+];
